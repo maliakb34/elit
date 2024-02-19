@@ -1,0 +1,4099 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: consulting\n"
+"POT-Creation-Date: 2020-06-16 06:55+0000\n"
+"PO-Revision-Date: 2022-09-21 09:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__;esc_html_e;esc_attr_e;_x:"
+"1,2c\n"
+"X-Poedit-Basepath: /Users/apple/Projects/consulting/consulting.loc/layout-"
+"12/wp-content/themes/\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: consulting\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.3.4; wp-5.4.2"
+
+#: woocommerce/loop/result-count.php:42
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid ""
+"Showing <strong>%1$d&ndash;%2$d</strong> of <strong>%3$d</strong> results"
+msgstr ""
+"Mostrando <strong>%1$d&ndash;%2$d</strong> de <strong>%3$d</strong> "
+"resultados"
+
+#: inc/tgm/tgm-plugin-activation.php:2244
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/extras.php:138
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:3392
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3398
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2521
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2512
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2516
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/extras.php:417 partials/mini-cart.php:3
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] "%d"
+
+#: inc/tgm/tgm-plugin-activation.php:1890
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:77
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s para %s ít"
+msgstr[1] "%s para %s ít"
+
+#: inc/visual_composer.php:2806
+msgid "(STM) Event Map"
+msgstr ""
+
+#: partials/content-event-form.php:128 partials/content-event-list-form.php:16
+msgid "* All fields are required"
+msgstr "* Todos los campos son obligatorios"
+
+#: partials/vc_templates/news.php:143
+#: partials/vc_templates/news/style_1.php:120
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:419 partials/mini-cart.php:5
+msgid "0"
+msgstr "0"
+
+#: inc/visual_composer.php:386
+msgid "0px"
+msgstr ""
+
+#: inc/visual_composer.php:4367 inc/visual_composer.php:4386
+msgid "1 day"
+msgstr ""
+
+#: inc/visual_composer.php:4379
+msgid "1 min"
+msgstr ""
+
+#: inc/visual_composer.php:4389
+msgid "1 month"
+msgstr ""
+
+#: inc/visual_composer.php:4388
+msgid "1 week"
+msgstr ""
+
+#: inc/visual_composer.php:392
+msgid "10px"
+msgstr ""
+
+#: inc/visual_composer.php:4382
+msgid "15 min"
+msgstr ""
+
+#: inc/visual_composer.php:393
+msgid "15px"
+msgstr ""
+
+#: inc/visual_composer.php:387
+msgid "1px"
+msgstr ""
+
+#: inc/visual_composer.php:4380
+msgid "2 min"
+msgstr ""
+
+#: inc/visual_composer.php:394
+msgid "20px"
+msgstr ""
+
+#: inc/visual_composer.php:395
+msgid "25px"
+msgstr ""
+
+#: inc/visual_composer.php:388
+msgid "2px"
+msgstr ""
+
+#: inc/visual_composer.php:4370
+msgid "30 days"
+msgstr ""
+
+#: inc/visual_composer.php:4383
+msgid "30 min"
+msgstr ""
+
+#: inc/visual_composer.php:4390
+msgid "30 month"
+msgstr ""
+
+#: inc/visual_composer.php:396
+msgid "30px"
+msgstr ""
+
+#: inc/visual_composer.php:397
+msgid "35px"
+msgstr ""
+
+#: inc/visual_composer.php:389
+msgid "3px"
+msgstr ""
+
+#: inc/visual_composer.php:398
+msgid "40px"
+msgstr ""
+
+#: inc/visual_composer.php:399
+msgid "45px"
+msgstr ""
+
+#: inc/visual_composer.php:390
+msgid "4px"
+msgstr ""
+
+#: inc/visual_composer.php:4368 inc/visual_composer.php:4387
+msgid "5 days"
+msgstr ""
+
+#: inc/visual_composer.php:4381
+msgid "5 min"
+msgstr ""
+
+#: inc/visual_composer.php:400
+msgid "50px"
+msgstr ""
+
+#: inc/visual_composer.php:401
+msgid "55px"
+msgstr ""
+
+#: inc/visual_composer.php:391
+msgid "5px"
+msgstr ""
+
+#: inc/visual_composer.php:4371
+msgid "60 days"
+msgstr ""
+
+#: inc/visual_composer.php:4384
+msgid "60 min"
+msgstr ""
+
+#: inc/visual_composer.php:402
+msgid "60px"
+msgstr ""
+
+#: inc/visual_composer.php:4369
+msgid "7 days"
+msgstr ""
+
+#: inc/visual_composer.php:4385
+msgid "90 min"
+msgstr ""
+
+#: inc/visual_composer.php:2264 inc/visual_composer.php:2270
+#: inc/visual_composer.php:2364 inc/visual_composer.php:2370
+msgid ""
+"<a href=\"http://www.latlong.net/convert-address-to-lat-long.html\">Here is "
+"a tool</a> where you can find Latitude & Longitude of your location"
+msgstr ""
+
+#: inc/extras.php:148
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr "<i class=\"fa fa-reply\"></i> Responder"
+
+#: inc/visual_composer.php:2636
+msgid "About Author"
+msgstr ""
+
+#: inc/visual_composer.php:3742
+msgid "About Vacancy"
+msgstr ""
+
+#: inc/theme-config.php:8602
+msgid "Abu Dhabi"
+msgstr "Abu Dhabi"
+
+#: inc/tgm/tgm-plugin-activation.php:2633
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/tgm/tgm-plugin-activation.php:2224
+msgid "Active"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Add a review"
+msgstr "Agregar una Revisión."
+
+#: inc/visual_composer.php:3841
+msgid "Add Category. If not added show all category"
+msgstr ""
+
+#: inc/header/main.php:14 inc/megamenu/admin/includes/config.php:134
+#: inc/megamenu/admin/includes/config.php:153
+msgid "Add image"
+msgstr "Añadir imagen"
+
+#: inc/visual_composer.php:1052
+msgid "Add link"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+msgid "add review"
+msgstr "Agregar Revisión"
+
+#: inc/visual_composer.php:4329
+msgid "Add second symbol?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:61
+msgid "Additional Information"
+msgstr "Información adicional"
+
+#: inc/visual_composer.php:667 inc/visual_composer.php:2233
+#: inc/visual_composer.php:2247 inc/visual_composer.php:2342
+msgid "Address"
+msgstr "Dirección"
+
+#: inc/visual_composer.php:183
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+
+#: inc/visual_composer.php:823
+msgid "Align Center"
+msgstr ""
+
+#: inc/visual_composer.php:933 inc/visual_composer.php:1360
+#: inc/visual_composer.php:3712
+msgid "Alignment"
+msgstr ""
+
+#: inc/visual_composer.php:459 inc/visual_composer.php:469
+#: inc/visual_composer.php:479 inc/visual_composer.php:489
+#: inc/visual_composer.php:499 inc/visual_composer.php:509
+#: partials/vc_templates/portfolio.php:37
+#: partials/vc_templates/vacancies.php:104 partials/vc_templates/works.php:254
+#: partials/vc_templates/works/grid_with_filter/style_1.php:61
+#: partials/vc_templates/works/grid_with_filter/style_2.php:64
+msgid "All"
+msgstr "Todos"
+
+#: inc/post_types-config.php:8 inc/visual_composer.php:2690
+msgid "All Events"
+msgstr "Todos los eventos"
+
+#: inc/tgm/tgm-plugin-activation.php:3393
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3399
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/post_types-config.php:89
+msgid "All Portfolio"
+msgstr "Todo el portafolio"
+
+#: inc/post_types-config.php:27
+msgid "All Services"
+msgstr "Todos los Servicios"
+
+#: inc/post_types-config.php:78
+msgid "All Sidebars"
+msgstr "Todas las barras laterales"
+
+#: inc/post_types-config.php:47
+msgid "All Staff"
+msgstr "Todo el personal"
+
+#: inc/post_types-config.php:67
+msgid "All Testimonials"
+msgstr "Todos los Testimonios"
+
+#: inc/post_types-config.php:37
+msgid "All Vacancies"
+msgstr "Todas las vacantes"
+
+#: inc/post_types-config.php:57
+msgid "All Works"
+msgstr "Todos los trabajos"
+
+#: inc/theme-config.php:8582
+msgid "Amsterdam"
+msgstr "Amsterdam"
+
+#: inc/tgm/tgm-plugin-activation.php:3386
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/visual_composer.php:4467
+msgid "Anchors Text"
+msgstr ""
+
+#: inc/visual_composer.php:1896
+msgid "Animation"
+msgstr ""
+
+#: inc/visual_composer.php:1887
+msgid "Animation Block"
+msgstr ""
+
+#: inc/visual_composer.php:1909
+msgid "Animation Delay (s)"
+msgstr ""
+
+#: inc/visual_composer.php:1902
+msgid "Animation Duration (s)"
+msgstr ""
+
+#: inc/theme-config.php:8457
+msgid "Ankara"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:97
+msgid "Anti-spam"
+msgstr "Anti-spam"
+
+#: woocommerce/cart/cart.php:130 woocommerce/checkout/form-coupon.php:37
+msgid "Apply Coupon"
+msgstr "Aplicar cupón"
+
+#: partials/content-vacancy_bottom.php:5
+msgid "apply now"
+msgstr "aplica ya"
+
+#: inc/visual_composer.php:1457
+msgid "Arrows"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2380
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/theme-config.php:8425
+msgid "Atlanta"
+msgstr ""
+
+#: inc/visual_composer.php:1588
+msgid "Author Image"
+msgstr ""
+
+#: inc/visual_composer.php:1593
+msgid "Author Name"
+msgstr ""
+
+#: inc/visual_composer.php:1598
+msgid "Author Status"
+msgstr ""
+
+#: partials/content-about_author.php:8
+msgid "Author:"
+msgstr "Author:"
+
+#: inc/visual_composer.php:1489 inc/visual_composer.php:1999
+#: inc/visual_composer.php:4017
+msgid "Autoplay interval timeout (in ms)."
+msgstr ""
+
+#: inc/visual_composer.php:1486 inc/visual_composer.php:1996
+#: inc/visual_composer.php:4014
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: woocommerce/cart/cart.php:72
+msgid "Available on backorder"
+msgstr "Disponible en tratamiento de atrasos"
+
+#: inc/tgm/tgm-plugin-activation.php:2408
+msgid "Available version:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Average"
+msgstr "Promedio"
+
+#: woocommerce/single-product/product-image.php:56
+msgid "Awaiting product image"
+msgstr "Esperando imagen del producto"
+
+#: inc/visual_composer.php:3274
+msgid "Bar"
+msgstr ""
+
+#: inc/theme-config.php:8467
+msgid "Barcelona"
+msgstr ""
+
+#: inc/visual_composer.php:980 inc/visual_composer.php:1130
+#: inc/visual_composer.php:1150 inc/visual_composer.php:1174
+#: inc/visual_composer.php:1241 inc/visual_composer.php:1606
+msgid "Base"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Sé el primero en opinar  &ldquo;%s&rdquo;"
+
+#: inc/visual_composer.php:3486
+msgid "Before disable Load More Button"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-config.php:8562
+msgid "Beijing"
+msgstr "Beijing"
+
+#: inc/theme-config.php:8492
+msgid "Berlin"
+msgstr "Berlin"
+
+#: inc/visual_composer.php:352
+msgid "Between Title and Subtitle"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "billing &amp; shipping"
+msgstr "Facturación y envío"
+
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing Address"
+msgstr "Dirección de Envio"
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "billing details"
+msgstr "Detalles de Facturación"
+
+#: inc/visual_composer.php:371
+msgid "Black"
+msgstr ""
+
+#: inc/visual_composer.php:370
+msgid "Bold"
+msgstr "Negrita"
+
+#: inc/visual_composer.php:286 inc/visual_composer.php:351
+#: inc/visual_composer.php:3296
+msgid "Bottom"
+msgstr ""
+
+#: inc/visual_composer.php:324
+msgid "Bottom and center"
+msgstr ""
+
+#: inc/visual_composer.php:326
+msgid "Bottom and left"
+msgstr ""
+
+#: inc/visual_composer.php:325
+msgid "Bottom and right"
+msgstr ""
+
+#: inc/visual_composer.php:2621
+msgid "Bottom Info"
+msgstr ""
+
+#: inc/visual_composer.php:1603
+msgid "Box Color"
+msgstr ""
+
+#: inc/megamenu/admin/includes/config.php:13
+msgid "Boxed"
+msgstr "Empaquetado"
+
+#: inc/theme-config.php:8542
+msgid "Brussels"
+msgstr "Brussels"
+
+#: inc/theme-config.php:8452
+msgid "Budapest"
+msgstr ""
+
+#: inc/visual_composer.php:1458
+msgid "Bullets"
+msgstr ""
+
+#: inc/visual_composer.php:3602
+msgid "Button for link to the archive page."
+msgstr ""
+
+#: inc/visual_composer.php:1057 inc/visual_composer.php:2999
+#: inc/visual_composer.php:3609
+msgid "Button link"
+msgstr "Enlace de botón"
+
+#: inc/visual_composer.php:242
+msgid "Button text"
+msgstr ""
+
+#: inc/woocommerce_configuration.php:10
+#, php-format
+msgid "by %s"
+msgstr "por %s"
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Calculate Shipping"
+msgstr "Calcular envío"
+
+#: woocommerce/myaccount/my-orders.php:92
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: partials/title_box.php:40 partials/title_box.php:41
+#: woocommerce/archive-product.php:35 woocommerce/single-product.php:78
+msgid "Careers"
+msgstr "Carreras"
+
+#: inc/visual_composer.php:1478 inc/visual_composer.php:1494
+#: inc/visual_composer.php:1504 inc/visual_composer.php:1518
+#: inc/visual_composer.php:1529 inc/visual_composer.php:1982
+#: inc/visual_composer.php:1992 inc/visual_composer.php:2004
+#: inc/visual_composer.php:2014 inc/visual_composer.php:2028
+#: inc/visual_composer.php:2035 inc/visual_composer.php:2042
+#: inc/visual_composer.php:2050 inc/visual_composer.php:2058
+#: inc/visual_composer.php:2066 inc/visual_composer.php:2074
+#: inc/visual_composer.php:2423 inc/visual_composer.php:4227
+#: inc/visual_composer.php:4238 inc/visual_composer.php:4245
+#: inc/visual_composer.php:4252 inc/visual_composer.php:4259
+#: inc/visual_composer.php:4266 inc/visual_composer.php:4273
+msgid "Carousel"
+msgstr ""
+
+#: inc/visual_composer.php:2529
+msgid "Carousel - Show Arrows"
+msgstr ""
+
+#: inc/visual_composer.php:1697
+msgid "Carousel autoplay"
+msgstr ""
+
+#: inc/visual_composer.php:2429
+msgid "Carousel Style"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr "Total de Carrito"
+
+#: inc/post_types-config.php:135 inc/post_types-config.php:136
+#: inc/post_types-config.php:137 inc/post_types-config.php:138
+#: inc/post_types-config.php:139 inc/post_types-config.php:140
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/visual_composer.php:1448 inc/visual_composer.php:1653
+#: inc/visual_composer.php:1752 inc/visual_composer.php:2412
+#: inc/visual_composer.php:2695 inc/visual_composer.php:3124
+#: inc/visual_composer.php:3450
+msgid "Category"
+msgstr ""
+
+#: inc/visual_composer.php:3245
+msgid "Category color"
+msgstr ""
+
+#: partials/content-loop_list.php:12 partials/content-post_details.php:12
+#: woocommerce/single-product/meta.php:40
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categoría:"
+msgstr[1] "Categorías:"
+
+#: inc/visual_composer.php:938 inc/visual_composer.php:1365
+#: inc/visual_composer.php:3717
+msgid "Center"
+msgstr ""
+
+#: inc/visual_composer.php:1948
+msgid "Centered Items"
+msgstr ""
+
+#: inc/visual_composer.php:3263
+msgid "Charts"
+msgstr ""
+
+#: inc/visual_composer.php:2472
+msgid "Circular"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "City"
+msgstr "Ciudad"
+
+#: inc/visual_composer.php:2705
+msgid "Classic"
+msgstr ""
+
+#: inc/visual_composer.php:435
+msgid "Classic Black"
+msgstr ""
+
+#: inc/visual_composer.php:430
+msgid "Classic Blue"
+msgstr ""
+
+#: inc/visual_composer.php:432
+msgid "Classic Green"
+msgstr ""
+
+#: inc/visual_composer.php:429
+msgid "Classic Grey"
+msgstr ""
+
+#: inc/visual_composer.php:427
+msgid "Classic Link"
+msgstr ""
+
+#: inc/visual_composer.php:433
+msgid "Classic Orange"
+msgstr ""
+
+#: inc/visual_composer.php:434
+msgid "Classic Red"
+msgstr ""
+
+#: inc/visual_composer.php:431
+msgid "Classic Turquoise"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:50
+msgid "Clear"
+msgstr "Limpiar"
+
+#: woocommerce/checkout/form-coupon.php:25
+msgid "Click here to enter your code"
+msgstr "Click aquí para introducir tu código."
+
+#: woocommerce/checkout/form-login.php:25
+msgid "Click here to login"
+msgstr "Click aquí para ingresar"
+
+#: inc/visual_composer.php:3635
+#: partials/vc_templates/portfolio_information.php:13
+msgid "Client"
+msgstr "Cliente"
+
+#: inc/visual_composer.php:1871
+msgid "Code"
+msgstr ""
+
+#: inc/visual_composer.php:417 inc/visual_composer.php:1388
+#: inc/visual_composer.php:3360 inc/visual_composer.php:3412
+msgid "Color"
+msgstr ""
+
+#: inc/visual_composer.php:4043
+msgid "Cols"
+msgstr ""
+
+#: inc/megamenu/admin/includes/config.php:120
+msgid "Column width Banner"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon Template"
+msgstr ""
+
+#: comments.php:27
+msgid "Comment navigation"
+msgstr "Comentario de navegación"
+
+#: inc/visual_composer.php:2662
+msgid "Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: inc/visual_composer.php:519
+msgid "Company History"
+msgstr ""
+
+#: partials/content-event-form.php:157
+msgid "Company Name *"
+msgstr "Nombre de empresa *"
+
+#: partials/content-about_vacancy.php:41
+msgid "Compensation:"
+msgstr "Compensación:"
+
+#. Name of the theme
+msgid "Consulting"
+msgstr "Consultante"
+
+#. Description of the theme
+#, fuzzy
+#| msgid ""
+#| "Consulting - Business and Finance WordPress theme. Using Consluting you "
+#| "can easily create a modern website with real content. Easily edit the "
+#| "real content and compose the page layout with drag &amp; drop page "
+#| "builder Consulting is the best ever finance, consulting, brokerage "
+#| "WordPress theme. It’s fully Responsive and Easy to Customize using "
+#| "intuitive Drag &amp; Drop Visual Composer and Theme Options panel in "
+#| "WordPress Customizer."
+msgid ""
+"Consulting - Business and Finance WordPress theme. Using Consulting you can "
+"easily create a modern website with real content. Easily edit the real "
+"content and compose the page layout with drag &amp; drop page builder "
+"Consulting is the best ever finance, consulting, brokerage WordPress theme. "
+"It’s fully Responsive and Easy to Customize using intuitive Drag &amp; Drop "
+"Visual Composer and Theme Options panel in WordPress Customizer."
+msgstr ""
+"Consultoría: tema de WordPress para negocios y finanzas. Con Consluting "
+"puedes crear fácilmente un sitio web moderno con contenido real. Edite "
+"fácilmente el contenido real y componga el diseño de la página con drag & "
+"amp; drop page builder Consulting es el mejor tema de finanzas, consultoría "
+"y corretaje de WordPress. Es totalmente receptivo y fácil de personalizar "
+"con la función intuitiva Arrastrar & amp; Suelta el panel Visual Composer y "
+"Theme Options en WordPress Customizer."
+
+#: functions.php:384
+#, php-format
+msgid ""
+"Consulting theme Customize Settings were moved to <a href=\"%s\">Dashboard > "
+"Theme Options</a>."
+msgstr ""
+
+#: inc/visual_composer.php:1778
+msgid "Contact"
+msgstr ""
+
+#: partials/content-staff_bottom.php:2
+msgid "contact details"
+msgstr "Detalles de contacto"
+
+#: inc/visual_composer.php:629
+msgid "Contacts"
+msgstr ""
+
+#: footer.php:134 partials/footer/style_3.php:69
+#, php-format
+msgctxt "Copyright"
+msgid "%s"
+msgstr "%s"
+
+#: inc/visual_composer.php:4412
+msgid "Cost Calculator"
+msgstr ""
+
+#: inc/visual_composer.php:1414 inc/visual_composer.php:1659
+#: inc/visual_composer.php:1758 inc/visual_composer.php:2507
+#: inc/visual_composer.php:3858 inc/visual_composer.php:3869
+#, fuzzy
+#| msgid "Cost"
+msgid "Count"
+msgstr "Costo"
+
+#: inc/visual_composer.php:4242
+msgid "Count item on desktop"
+msgstr ""
+
+#: inc/visual_composer.php:4249
+msgid "Count item on landscape"
+msgstr ""
+
+#: inc/visual_composer.php:4263
+msgid "Count item on mobile"
+msgstr ""
+
+#: inc/visual_composer.php:4270
+msgid "Count item on mobile portrait"
+msgstr ""
+
+#: inc/visual_composer.php:4256
+msgid "Count item on portrait"
+msgstr ""
+
+#: inc/visual_composer.php:3053
+msgid "Count to date"
+msgstr ""
+
+#: inc/visual_composer.php:3046
+msgid "Countdown"
+msgstr ""
+
+#: inc/visual_composer.php:1306
+msgid "Counter Value"
+msgstr ""
+
+#: inc/visual_composer.php:1312
+msgid "Counter Value Prefix"
+msgstr ""
+
+#: inc/visual_composer.php:1318
+msgid "Counter Value Suffix"
+msgstr ""
+
+#: inc/visual_composer.php:2356
+msgid "Country"
+msgstr ""
+
+#: woocommerce/cart/cart.php:130
+msgid "Coupon"
+msgstr "Cupón"
+
+#: woocommerce/cart/cart.php:130 woocommerce/checkout/form-coupon.php:33
+msgid "Coupon code"
+msgstr "Código del cupón"
+
+#: woocommerce/checkout/form-billing.php:54
+msgid "Create an account?"
+msgstr "¿Crear una cuenta?"
+
+#: inc/visual_composer.php:154 inc/visual_composer.php:202
+#: inc/visual_composer.php:254 inc/visual_composer.php:532
+#: inc/visual_composer.php:619 inc/visual_composer.php:778
+#: inc/visual_composer.php:892 inc/visual_composer.php:1262
+#: inc/visual_composer.php:1370 inc/visual_composer.php:1537
+#: inc/visual_composer.php:1623 inc/visual_composer.php:1735
+#: inc/visual_composer.php:1767 inc/visual_composer.php:1842
+#: inc/visual_composer.php:1877 inc/visual_composer.php:2078
+#: inc/visual_composer.php:2144 inc/visual_composer.php:2223
+#: inc/visual_composer.php:2332 inc/visual_composer.php:2401
+#: inc/visual_composer.php:2572 inc/visual_composer.php:2612
+#: inc/visual_composer.php:2627 inc/visual_composer.php:2651
+#: inc/visual_composer.php:2668 inc/visual_composer.php:2762
+#: inc/visual_composer.php:2779 inc/visual_composer.php:2796
+#: inc/visual_composer.php:2824 inc/visual_composer.php:2866
+#: inc/visual_composer.php:3013 inc/visual_composer.php:3079
+#: inc/visual_composer.php:3253 inc/visual_composer.php:3422
+#: inc/visual_composer.php:3491 inc/visual_composer.php:3573
+#: inc/visual_composer.php:3618 inc/visual_composer.php:3732
+#: inc/visual_composer.php:3748 inc/visual_composer.php:3763
+#: inc/visual_composer.php:3778 inc/visual_composer.php:4071
+#: inc/visual_composer.php:4118 inc/visual_composer.php:4444
+#: inc/visual_composer.php:4459 inc/visual_composer.php:4521
+msgid "Css"
+msgstr ""
+
+#: inc/visual_composer.php:2689
+msgid "Current Events"
+msgstr ""
+
+#: inc/visual_composer.php:983 inc/visual_composer.php:1133
+#: inc/visual_composer.php:1153 inc/visual_composer.php:1177
+#: inc/visual_composer.php:1244 inc/visual_composer.php:1609
+msgid "Custom"
+msgstr ""
+
+#: inc/visual_composer.php:2557 inc/visual_composer.php:2568
+msgid "Custom link"
+msgstr ""
+
+#: inc/visual_composer.php:2540
+msgid "Custom link in list"
+msgstr ""
+
+#: inc/visual_composer.php:1956
+msgid "Custom links"
+msgstr ""
+
+#: inc/header/main.php:10
+msgid "Dark Logo"
+msgstr "Logo oscuro"
+
+#: inc/visual_composer.php:2907 inc/visual_composer.php:3641
+#: partials/vc_templates/portfolio_information.php:22
+#: partials/vc_templates/vacancies.php:28
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/visual_composer.php:2844
+msgid "Date Format"
+msgstr ""
+
+#: inc/theme-config.php:8632
+msgid "Davos"
+msgstr "Davos"
+
+#: inc/visual_composer.php:110 inc/visual_composer.php:1069
+#: inc/visual_composer.php:1129 inc/visual_composer.php:1240
+#: inc/visual_composer.php:2445 inc/visual_composer.php:2469
+#: inc/megamenu/admin/includes/config.php:25
+#: inc/megamenu/admin/includes/config.php:48
+#: inc/megamenu/admin/includes/config.php:71
+#: inc/megamenu/admin/includes/config.php:94
+#: inc/megamenu/admin/includes/config.php:125
+msgid "Default"
+msgstr "Defecto"
+
+#: inc/visual_composer.php:2481
+msgid "Default (cropped)"
+msgstr ""
+
+#: inc/visual_composer.php:4427
+msgid "Default style"
+msgstr ""
+
+#: inc/visual_composer.php:1912
+msgid "Delays the animation effect for seconds you enter above."
+msgstr ""
+
+#: inc/theme-config.php:8622
+msgid "Denver"
+msgstr "Denver"
+
+#: partials/vc_templates/vacancies.php:27
+msgid "Department"
+msgstr "Departamento"
+
+#: partials/content-about_vacancy.php:8
+msgid "Department:"
+msgstr "Departamento:"
+
+#: inc/visual_composer.php:560 inc/visual_composer.php:609
+#: inc/visual_composer.php:1324 inc/visual_composer.php:2954
+#: inc/visual_composer.php:3036 inc/visual_composer.php:3059
+msgid "Description"
+msgstr ""
+
+#: inc/visual_composer.php:3270
+msgid "Design"
+msgstr ""
+
+#: inc/visual_composer.php:2868 inc/visual_composer.php:3015
+msgid "Design Options"
+msgstr ""
+
+#: inc/visual_composer.php:156 inc/visual_composer.php:204
+#: inc/visual_composer.php:256 inc/visual_composer.php:534
+#: inc/visual_composer.php:621 inc/visual_composer.php:780
+#: inc/visual_composer.php:894 inc/visual_composer.php:1264
+#: inc/visual_composer.php:1372 inc/visual_composer.php:1539
+#: inc/visual_composer.php:1625 inc/visual_composer.php:1737
+#: inc/visual_composer.php:1769 inc/visual_composer.php:1844
+#: inc/visual_composer.php:1879 inc/visual_composer.php:2080
+#: inc/visual_composer.php:2146 inc/visual_composer.php:2225
+#: inc/visual_composer.php:2334 inc/visual_composer.php:2574
+#: inc/visual_composer.php:2653 inc/visual_composer.php:2764
+#: inc/visual_composer.php:2781 inc/visual_composer.php:2798
+#: inc/visual_composer.php:2826 inc/visual_composer.php:3081
+#: inc/visual_composer.php:3255 inc/visual_composer.php:3424
+#: inc/visual_composer.php:3493 inc/visual_composer.php:3575
+#: inc/visual_composer.php:3620 inc/visual_composer.php:3734
+#: inc/visual_composer.php:4073 inc/visual_composer.php:4120
+#: inc/visual_composer.php:4523
+msgid "Design options"
+msgstr ""
+
+#: inc/visual_composer.php:2606
+msgid "Details"
+msgstr ""
+
+#: inc/header/main.php:26
+msgid "Disable"
+msgstr "Inhabilitar"
+
+#: inc/visual_composer.php:1705
+msgid "Disable Carousel"
+msgstr ""
+
+#: inc/visual_composer.php:3005
+msgid "Disable Carousel Mode"
+msgstr ""
+
+#: inc/visual_composer.php:1721
+msgid "Disable image"
+msgstr ""
+
+#: inc/visual_composer.php:2206 inc/visual_composer.php:2315
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr ""
+
+#: inc/visual_composer.php:1514
+msgid "Disable navigation."
+msgstr ""
+
+#: inc/visual_composer.php:2133
+msgid "Disable Preview Image"
+msgstr ""
+
+#: inc/megamenu/admin/includes/config.php:12
+msgid "Disabled"
+msgstr "Discapacitada"
+
+#: inc/tgm/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/visual_composer.php:3275
+msgid "Doughnut"
+msgstr ""
+
+#: partials/vc_templates/countdown.php:57
+msgid "Download now"
+msgstr "Descargar ahora"
+
+#: inc/theme-config.php:8627
+msgid "Dubai"
+msgstr "Dubai"
+
+#: inc/theme-config.php:8612
+msgid "Dublin"
+msgstr "Dublin"
+
+#: inc/visual_composer.php:1334
+#, fuzzy
+#| msgid "Education"
+msgid "Duration"
+msgstr "Educación"
+
+#: inc/extras.php:188 woocommerce/single-product-reviews.php:76
+msgid "E-mail"
+msgstr "Email"
+
+#: inc/extras.php:153
+msgid "Edit"
+msgstr "Editar"
+
+#: woocommerce/myaccount/my-address.php:51
+msgid "edit"
+msgstr "Editar"
+
+#: partials/content-about_vacancy.php:30
+msgid "Education:"
+msgstr "Educación:"
+
+#: inc/visual_composer.php:712 inc/visual_composer.php:1832
+#: inc/visual_composer.php:2257
+msgid "Email"
+msgstr "Email"
+
+#: partials/content-event-form.php:142
+msgid "Email *"
+msgstr "Email *"
+
+#: woocommerce/myaccount/form-login.php:85
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: partials/vc_templates/contact.php:55
+msgid "Email: "
+msgstr "Correo Electrónico"
+
+#: inc/header/main.php:27
+msgid "Enable"
+msgstr "Habilitar"
+
+#: inc/visual_composer.php:3979 inc/visual_composer.php:4233
+msgid "Enable arrows mode."
+msgstr ""
+
+#: inc/visual_composer.php:1474 inc/visual_composer.php:1988
+#: inc/visual_composer.php:3951 inc/visual_composer.php:4003
+msgid "Enable autoplay mode."
+msgstr ""
+
+#: inc/visual_composer.php:3534
+msgid "Enable carousel navigation buttons"
+msgstr ""
+
+#: inc/visual_composer.php:3540
+msgid "Enable carousel pagination dots"
+msgstr ""
+
+#: inc/visual_composer.php:4028
+msgid "Enable different grid tiles"
+msgstr ""
+
+#: inc/visual_composer.php:3965
+msgid "Enable dots mode."
+msgstr ""
+
+#: inc/header/main.php:23
+msgid "Enable full width"
+msgstr "Habilitar ancho completo"
+
+#: inc/visual_composer.php:1016
+msgid "Enable Hexagon"
+msgstr ""
+
+#: inc/visual_composer.php:1028
+msgid "Enable Hexagon Hover Animation"
+msgstr ""
+
+#: inc/visual_composer.php:3937 inc/visual_composer.php:4222
+msgid "Enable loop mode."
+msgstr ""
+
+#: inc/visual_composer.php:1940
+msgid "Enable Opacity"
+msgstr ""
+
+#: inc/visual_composer.php:2034
+msgid "Enable pagination dots."
+msgstr ""
+
+#: inc/visual_composer.php:2020
+msgid "Enable previous and next arrows."
+msgstr ""
+
+#: inc/visual_composer.php:1500 inc/visual_composer.php:2010
+msgid "Enable slider loop mode."
+msgstr ""
+
+#: inc/visual_composer.php:2298
+msgid "Enter Description"
+msgstr ""
+
+#: inc/visual_composer.php:959
+msgid "Enter font size in px"
+msgstr ""
+
+#: inc/visual_composer.php:1198
+msgid "Enter icon height in px"
+msgstr ""
+
+#: inc/visual_composer.php:860
+msgid "Enter icon size in \"px\""
+msgstr ""
+
+#: inc/visual_composer.php:1112
+msgid "Enter icon size in px"
+msgstr ""
+
+#: inc/visual_composer.php:1209
+msgid "Enter icon width in px"
+msgstr ""
+
+#: inc/visual_composer.php:1220
+msgid "Enter icon wrapper width in px"
+msgstr ""
+
+#: inc/visual_composer.php:605 inc/visual_composer.php:1805
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"default\" size."
+msgstr ""
+
+#: inc/visual_composer.php:231
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+
+#: inc/visual_composer.php:2140
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use default size."
+msgstr ""
+
+#: inc/visual_composer.php:1965 inc/visual_composer.php:2740
+#: inc/visual_composer.php:3133 inc/visual_composer.php:4062
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use default size."
+msgstr ""
+
+#: inc/visual_composer.php:969 inc/visual_composer.php:1118
+msgid "Enter line-height in px"
+msgstr ""
+
+#: inc/visual_composer.php:1958
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr ""
+
+#: inc/visual_composer.php:2189 inc/visual_composer.php:2292
+#: inc/visual_composer.php:2815
+msgid "Enter map height in px"
+msgstr ""
+
+#: inc/visual_composer.php:1667
+msgid "Enter photo size 350x250"
+msgstr ""
+
+#: inc/visual_composer.php:3350 inc/visual_composer.php:3402
+msgid "Enter title for chart dataset."
+msgstr ""
+
+#: partials/vc_templates/countdown.php:54
+msgid "Enter your Email"
+msgstr "Introduce tu correo electrónico"
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr "estimado por %s"
+
+#: partials/content-event-form.php:82
+msgid "Europe/London"
+msgstr "Europe/London"
+
+#: inc/post_types-config.php:6 inc/visual_composer.php:2895
+msgid "Event"
+msgstr "Evento"
+
+#: inc/visual_composer.php:2913
+msgid "Event activity details"
+msgstr ""
+
+#: inc/visual_composer.php:2834
+msgid "Event Agenda"
+msgstr ""
+
+#: partials/content-event-form.php:173 partials/content-event-list-form.php:57
+#, php-format
+msgctxt "Event terms conditions"
+msgid "%s"
+msgstr "%s"
+
+#: inc/post_types-config.php:7 inc/visual_composer.php:2677
+msgid "Events"
+msgstr "Eventos"
+
+#: inc/visual_composer.php:2789
+msgid "Events Form Box"
+msgstr ""
+
+#: inc/visual_composer.php:2772
+msgid "Events Information"
+msgstr ""
+
+#: inc/visual_composer.php:819
+msgid "Example: Text - full, large, medium, Number - 340x200"
+msgstr ""
+
+#: inc/visual_composer.php:3229
+msgid "Excerpt color"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2198
+msgid "External Source"
+msgstr ""
+
+#: inc/visual_composer.php:771 inc/visual_composer.php:1969
+#: inc/visual_composer.php:2217 inc/visual_composer.php:2326
+#: inc/visual_composer.php:4112
+msgid "Extra class name"
+msgstr ""
+
+#: inc/visual_composer.php:1568
+msgid "Extra Small Screen"
+msgstr ""
+
+#: inc/visual_composer.php:726 inc/visual_composer.php:3664
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/visual_composer.php:694
+msgid "Fax"
+msgstr ""
+
+#: inc/visual_composer.php:4183
+msgid "Features"
+msgstr ""
+
+#: inc/visual_composer.php:2919
+msgid "Field 1"
+msgstr ""
+
+#: inc/visual_composer.php:2923
+msgid "Field 2"
+msgstr ""
+
+#: inc/visual_composer.php:1070
+msgid "File"
+msgstr ""
+
+#: inc/visual_composer.php:4319 inc/visual_composer.php:4346
+msgid "Fill color"
+msgstr ""
+
+#: inc/visual_composer.php:2684
+msgid "Filter Events"
+msgstr ""
+
+#: inc/visual_composer.php:361
+#, fuzzy
+#| msgid "Font Weight"
+msgid "Font weight"
+msgstr "Peso de la fuente"
+
+#: functions.php:193
+msgid "Footer "
+msgstr "Pie de página"
+
+#: footer.php:80
+#, php-format
+msgctxt "Footer Text"
+msgid "%s"
+msgstr "%s"
+
+#: inc/theme-config.php:8577
+msgid "Frankfurt"
+msgstr "Frankfurt"
+
+#: inc/megamenu/admin/includes/config.php:126
+msgid "Full Width"
+msgstr ""
+
+#: partials/content-event-classic.php:104 partials/content-event-form.php:110
+msgid "fully booked"
+msgstr "completamente lleno"
+
+#: inc/visual_composer.php:134
+msgid "Gallery type"
+msgstr ""
+
+#: inc/visual_composer.php:383
+msgid "Gap"
+msgstr ""
+
+#: inc/visual_composer.php:2995 inc/visual_composer.php:3001
+#: inc/visual_composer.php:3007
+msgid "General"
+msgstr ""
+
+#: inc/theme-config.php:8442
+msgid "Geneva"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Good"
+msgstr "Bien"
+
+#: inc/visual_composer.php:2176
+msgid "Google Map"
+msgstr ""
+
+#: inc/visual_composer.php:2279
+msgid "Google Map (Style 2)"
+msgstr ""
+
+#: inc/visual_composer.php:753 inc/visual_composer.php:3679
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/visual_composer.php:2422 inc/visual_composer.php:2704
+#: inc/visual_composer.php:3803
+msgid "Grid"
+msgstr ""
+
+#: inc/visual_composer.php:2442
+msgid "Grid View"
+msgstr "Vista de cuadrícula"
+
+#: inc/visual_composer.php:3805
+msgid "Grid with carousel"
+msgstr ""
+
+#: inc/visual_composer.php:3804
+msgid "Grid with filter"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:67
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: woocommerce/checkout/form-coupon.php:25
+msgid "Have a coupon?"
+msgstr "¿Tienes un cupón?"
+
+#: partials/headers/styles/header_style_1.php:90
+#: partials/headers/styles/header_style_10.php:103
+#: partials/headers/styles/header_style_11.php:90
+#: partials/headers/styles/header_style_12.php:106
+#: partials/headers/styles/header_style_2.php:103
+#: partials/headers/styles/header_style_3.php:90
+#: partials/headers/styles/header_style_4.php:90
+#: partials/headers/styles/header_style_5.php:101
+#: partials/headers/styles/header_style_6.php:89
+#: partials/headers/styles/header_style_7.php:118
+#: partials/headers/styles/header_style_8.php:138
+#: partials/headers/styles/header_style_9.php:118
+#, php-format
+msgctxt "Header address"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/styles/header_style_1.php:98
+#: partials/headers/styles/header_style_10.php:111
+#: partials/headers/styles/header_style_11.php:98
+#: partials/headers/styles/header_style_12.php:96
+#: partials/headers/styles/header_style_2.php:111
+#: partials/headers/styles/header_style_3.php:98
+#: partials/headers/styles/header_style_4.php:98
+#: partials/headers/styles/header_style_5.php:109
+#: partials/headers/styles/header_style_6.php:79
+#: partials/headers/styles/header_style_7.php:126
+#: partials/headers/styles/header_style_8.php:146
+#: partials/headers/styles/header_style_9.php:126
+#, php-format
+msgctxt "Header hours"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/styles/header_style_1.php:106
+#: partials/headers/styles/header_style_1.php:190
+#: partials/headers/styles/header_style_10.php:119
+#: partials/headers/styles/header_style_11.php:106
+#: partials/headers/styles/header_style_12.php:88
+#: partials/headers/styles/header_style_2.php:119
+#: partials/headers/styles/header_style_3.php:106
+#: partials/headers/styles/header_style_3.php:190
+#: partials/headers/styles/header_style_4.php:106
+#: partials/headers/styles/header_style_5.php:117
+#: partials/headers/styles/header_style_6.php:71
+#: partials/headers/styles/header_style_7.php:134
+#: partials/headers/styles/header_style_8.php:154
+#: partials/headers/styles/header_style_9.php:134
+#, php-format
+msgctxt "Header phone"
+msgid "%s"
+msgstr "%s"
+
+#: inc/visual_composer.php:3308
+msgid "Height (px)"
+msgstr ""
+
+#: inc/visual_composer.php:355 inc/visual_composer.php:1516
+msgid "Hide"
+msgstr ""
+
+#: inc/visual_composer.php:1713
+msgid "Hide Carousel Arrows"
+msgstr ""
+
+#: inc/visual_composer.php:3165
+msgid "Hide category"
+msgstr ""
+
+#: inc/visual_composer.php:3185
+msgid "Hide excerpt"
+msgstr ""
+
+#: inc/visual_composer.php:3153
+msgid "Hide image"
+msgstr ""
+
+#: inc/visual_composer.php:3197
+msgid "Hide more button"
+msgstr ""
+
+#: inc/visual_composer.php:3209
+msgid "Hide pagination"
+msgstr ""
+
+#: inc/visual_composer.php:3177
+msgid "Hide title"
+msgstr ""
+
+#: inc/visual_composer.php:1004
+msgid "Hide Title Line"
+msgstr ""
+
+#: hb_templates/mobile/mobile.php:32
+msgid "Home"
+msgstr ""
+
+#: 404.php:15
+msgid "homepage"
+msgstr "Página de inicio"
+
+#: inc/theme-config.php:8652
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: inc/visual_composer.php:1905
+msgid "How long the animation effect should last. Decides the speed of effect."
+msgstr ""
+
+#. URI of the theme
+#, fuzzy
+#| msgid "http://consulting.stylemixthemes.com/"
+msgid "https://consulting.stylemixthemes.com/"
+msgstr "http://consulting.stylemixthemes.com/"
+
+#. Author URI of the theme
+msgid "https://stylemixthemes.com/"
+msgstr "https://stylemixthemes.com/"
+
+#: partials/content-event-form.php:169 partials/content-event-form.php:205
+#: partials/content-event-list-form.php:53
+#: partials/content-event-list-form.php:84
+#, fuzzy
+#| msgid ""
+#| "I agree with all additional <a href='http://stylemixthemes.com/' "
+#| "target='_blank'>terms and conditions</a>"
+msgid ""
+"I agree with all additional <a href='https://stylemixthemes.com/' "
+"target='_blank'>terms and conditions</a>"
+msgstr ""
+"Estoy de acuerdo con todos los adicionales <a href='http://stylemixthemes."
+"com/' target='_blank'>términos y Condiciones</a>"
+
+#: partials/content-event-classic.php:98 partials/content-event-form.php:104
+msgid "i am going"
+msgstr "Yo voy"
+
+#: inc/visual_composer.php:266 inc/visual_composer.php:1088
+#: inc/visual_composer.php:1285
+msgid "Icon"
+msgstr "Icono"
+
+#: inc/visual_composer.php:1147
+msgid "Icon - Background Color"
+msgstr ""
+
+#: inc/visual_composer.php:1171
+msgid "Icon - Border Color"
+msgstr ""
+
+#: inc/visual_composer.php:1186
+msgid "Icon - Border Custom"
+msgstr ""
+
+#: inc/visual_composer.php:321
+msgid "Icon - bottom position"
+msgstr ""
+
+#: inc/visual_composer.php:1126
+msgid "Icon - Color"
+msgstr ""
+
+#: inc/visual_composer.php:1138 inc/visual_composer.php:1162
+msgid "Icon - Color Custom"
+msgstr ""
+
+#: inc/visual_composer.php:1116
+msgid "Icon - Line Height"
+msgstr ""
+
+#: inc/visual_composer.php:280 inc/visual_composer.php:1094
+msgid "Icon - Position"
+msgstr ""
+
+#: inc/visual_composer.php:292
+msgid "Icon - right position"
+msgstr ""
+
+#: inc/visual_composer.php:858
+msgid "Icon - Size"
+msgstr ""
+
+#: inc/visual_composer.php:306
+msgid "Icon - top position"
+msgstr ""
+
+#: inc/visual_composer.php:909
+msgid "Icon Box"
+msgstr ""
+
+#: inc/visual_composer.php:1350
+msgid "Icon color"
+msgstr ""
+
+#: inc/visual_composer.php:1066
+msgid "Icon format"
+msgstr ""
+
+#: inc/visual_composer.php:1195
+msgid "Icon Height"
+msgstr ""
+
+#: inc/visual_composer.php:1099
+msgid "Icon Left"
+msgstr ""
+
+#: inc/visual_composer.php:1100
+msgid "Icon Left Transparent"
+msgstr ""
+
+#: inc/visual_composer.php:1109
+msgid "Icon Size"
+msgstr ""
+
+#: inc/visual_composer.php:273
+msgid "Icon Size (px)"
+msgstr ""
+
+#: inc/visual_composer.php:1097
+msgid "Icon Top"
+msgstr ""
+
+#: inc/visual_composer.php:1098
+msgid "Icon Top Transparent"
+msgstr ""
+
+#: inc/visual_composer.php:1206
+msgid "Icon Width"
+msgstr ""
+
+#: inc/visual_composer.php:1217
+msgid "Icon Wrapper Width"
+msgstr ""
+
+#: inc/visual_composer.php:3285
+msgid "If checked, chart will have legend."
+msgstr ""
+
+#: inc/visual_composer.php:1465
+msgid ""
+"If you enable this option, the block size will be gone. And you can place "
+"widget in one small column."
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:30
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Si has comprado anteriormente a nosotros, por favor introduce tus detalles "
+"en los campos de abajo. SI eres cliente nuevo, por favor procede a la "
+"sección de Facturación de envío."
+
+#: inc/visual_composer.php:774
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/visual_composer.php:804 inc/visual_composer.php:1798
+msgid "Image"
+msgstr ""
+
+#: inc/visual_composer.php:1928
+msgid "Image Carousel"
+msgstr ""
+
+#: inc/visual_composer.php:140
+msgid "Image full"
+msgstr ""
+
+#: inc/visual_composer.php:137
+msgid "Image grid"
+msgstr ""
+
+#: inc/visual_composer.php:229 inc/visual_composer.php:603
+#: inc/visual_composer.php:813 inc/visual_composer.php:1803
+#: inc/visual_composer.php:2138
+msgid "Image Size"
+msgstr ""
+
+#: inc/visual_composer.php:1962 inc/visual_composer.php:2478
+#: inc/visual_composer.php:2733 inc/visual_composer.php:3130
+#: inc/visual_composer.php:4059
+msgid "Image size"
+msgstr ""
+
+#: inc/visual_composer.php:2466
+msgid "Image style"
+msgstr ""
+
+#: inc/visual_composer.php:1935
+msgid "Images"
+msgstr ""
+
+#: partials/vc_templates/news.php:153
+#: partials/vc_templates/news/style_1.php:130
+msgid "in"
+msgstr "en"
+
+#: inc/visual_composer.php:3839
+msgid "Include Category"
+msgstr ""
+
+#: inc/visual_composer.php:900
+msgid "Info Box"
+msgstr ""
+
+#: inc/visual_composer.php:795
+msgid "Infobox label"
+msgstr ""
+
+#: inc/megamenu/admin/includes/config.php:127
+msgid "Inside Without Padding"
+msgstr ""
+
+#: inc/visual_composer.php:3674
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/tgm/tgm-plugin-activation.php:2624
+msgid "Install"
+msgstr "Instalación"
+
+#: inc/tgm/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2222
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2388
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3394
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3400
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: inc/theme-config.php:8637
+msgid "Istanbul"
+msgstr "Istanbul"
+
+#: partials/content-none.php:11
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Al parecer no podemos encontrar lo que está buscando. Tal vez una búsqueda "
+"lo ayude."
+
+#: inc/visual_composer.php:543
+msgid "Item"
+msgstr ""
+
+#: inc/visual_composer.php:2046 inc/visual_composer.php:3545
+#: inc/visual_composer.php:3880
+msgid "Items"
+msgstr ""
+
+#: inc/visual_composer.php:2070 inc/visual_composer.php:3566
+#: inc/visual_composer.php:3924
+msgid "Items (Mobile)"
+msgstr ""
+
+#: inc/visual_composer.php:2054 inc/visual_composer.php:3552
+#: inc/visual_composer.php:3891
+msgid "Items (Small Desktop)"
+msgstr ""
+
+#: inc/visual_composer.php:2062 inc/visual_composer.php:3559
+#: inc/visual_composer.php:3902 inc/visual_composer.php:3913
+msgid "Items (Tablet)"
+msgstr ""
+
+#: inc/visual_composer.php:4102
+msgid "Items Count"
+msgstr ""
+
+#: inc/visual_composer.php:2457
+msgid "Items Title"
+msgstr ""
+
+#: inc/theme-config.php:8437
+msgid "Jakarta"
+msgstr ""
+
+#: inc/visual_composer.php:1809
+msgid "Job"
+msgstr ""
+
+#: partials/vc_templates/vacancies.php:25
+msgid "Job Posting Title"
+msgstr "Título de la entrada del Trabajo"
+
+#: partials/content-event-form.php:190 partials/content-event-list-form.php:72
+msgid "join"
+msgstr "unirse"
+
+#: partials/content-event-info.php:106
+msgid "join now"
+msgstr "Únete ahora"
+
+#: inc/theme-config.php:8419
+msgid "Kuala Lumpur"
+msgstr ""
+
+#: inc/visual_composer.php:1553
+msgid "Large Screen"
+msgstr ""
+
+#: inc/visual_composer.php:2262 inc/visual_composer.php:2362
+#, fuzzy
+#| msgid "Latitude:"
+msgid "Latitude"
+msgstr "Latitud:"
+
+#: partials/vc_templates/services/style_11.php:85
+msgid "Learn more"
+msgstr "Aprende más"
+
+#: woocommerce/single-product-reviews.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deja un comentario%s"
+
+#: inc/visual_composer.php:283 inc/visual_composer.php:936
+#: inc/visual_composer.php:1363 inc/visual_composer.php:3297
+#: inc/visual_composer.php:3715 inc/visual_composer.php:4484
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/visual_composer.php:354
+msgid "Left and Right"
+msgstr ""
+
+#: functions.php:169
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/visual_composer.php:3291
+msgid "Legend Position"
+msgstr ""
+
+#: inc/visual_composer.php:366
+msgid "Light"
+msgstr "Ligera"
+
+#: inc/visual_composer.php:3273
+msgid "Line"
+msgstr ""
+
+#: inc/visual_composer.php:614 inc/visual_composer.php:873
+#: inc/visual_composer.php:1730 inc/visual_composer.php:2551
+#: inc/visual_composer.php:4189
+msgid "Link"
+msgstr ""
+
+#: inc/visual_composer.php:3064
+msgid "Link for download"
+msgstr ""
+
+#: inc/visual_composer.php:882
+msgid "Link Icon"
+msgstr ""
+
+#: inc/visual_composer.php:744
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/visual_composer.php:4481
+msgid "Links position"
+msgstr ""
+
+#: inc/theme-config.php:8487
+msgid "Lisbon"
+msgstr "Lisbon"
+
+#: inc/visual_composer.php:2421
+msgid "List"
+msgstr ""
+
+#: inc/visual_composer.php:2424
+msgid "List two columns"
+msgstr ""
+
+#: inc/theme-config.php:8447
+msgid "Liverpool"
+msgstr ""
+
+#: partials/vc_templates/events.php:131 partials/vc_templates/events.php:141
+#: partials/vc_templates/portfolio.php:67
+#: partials/vc_templates/portfolio.php:78
+msgid "load more"
+msgstr "carga más"
+
+#: partials/vc_templates/events.php:125 partials/vc_templates/events.php:135
+#: partials/vc_templates/portfolio.php:62
+#: partials/vc_templates/portfolio.php:73
+msgid "loading..."
+msgstr "cargando..."
+
+#: inc/visual_composer.php:2944 partials/vc_templates/vacancies.php:26
+msgid "Location"
+msgstr "Ubicación"
+
+#: woocommerce/global/form-login.php:45 woocommerce/myaccount/form-login.php:50
+#: woocommerce/myaccount/form-login.php:50
+msgid "Login"
+msgstr "ingreso"
+
+#: woocommerce/myaccount/form-login.php:37
+msgid "login"
+msgstr "Ingreso"
+
+#: inc/visual_composer.php:589
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/theme-config.php:8532
+msgid "London"
+msgstr "London"
+
+#: inc/visual_composer.php:2268 inc/visual_composer.php:2368
+#, fuzzy
+#| msgid "Longitude:"
+msgid "Longitude"
+msgstr "Longitud:"
+
+#: inc/visual_composer.php:3528
+msgid "Loop"
+msgstr ""
+
+#: inc/theme-config.php:8497
+msgid "Los Angeles"
+msgstr "los Angeles"
+
+#: woocommerce/global/form-login.php:52 woocommerce/myaccount/form-login.php:56
+msgid "Lost your password?"
+msgstr "¿perdió su contraseña?"
+
+#: inc/theme-config.php:8477
+msgid "Lyon"
+msgstr ""
+
+#: inc/theme-config.php:8572
+msgid "Madrid"
+msgstr "Madrid"
+
+#: inc/theme-config.php:8431
+msgid "Manchester"
+msgstr ""
+
+#: inc/visual_composer.php:2812
+msgid "Map - Height"
+msgstr ""
+
+#: inc/visual_composer.php:2819
+msgid "Map - Zoom"
+msgstr ""
+
+#: inc/visual_composer.php:2186 inc/visual_composer.php:2289
+msgid "Map Height"
+msgstr ""
+
+#: inc/visual_composer.php:2213 inc/visual_composer.php:2322
+msgid "Map Style"
+msgstr ""
+
+#: inc/visual_composer.php:2296
+msgid "Map Title"
+msgstr ""
+
+#: inc/visual_composer.php:2193 inc/visual_composer.php:2302
+msgid "Map Zoom"
+msgstr ""
+
+#: inc/visual_composer.php:2199 inc/visual_composer.php:2308
+msgid "Marker Image"
+msgstr ""
+
+#: inc/theme-config.php:8552
+#, fuzzy
+#| msgid "Marsseille"
+msgid "Marseille"
+msgstr "Marsseille"
+
+#: inc/visual_composer.php:3806
+msgid "Masonry"
+msgstr ""
+
+#: inc/visual_composer.php:3471
+msgid "Masonry Grid"
+msgstr ""
+
+#: inc/visual_composer.php:368
+msgid "Medium"
+msgstr "Medio"
+
+#: inc/visual_composer.php:2482
+msgid "Medium (proportional)"
+msgstr ""
+
+#: inc/visual_composer.php:1558
+msgid "Medium Screen"
+msgstr ""
+
+#: inc/megamenu/admin/includes/config.php:152
+msgid "Megamenu background"
+msgstr "Fondo Megamenu"
+
+#: inc/megamenu/admin/includes/config.php:66
+msgid "Megamenu child columns width"
+msgstr "Ancho de columnas secundarias de megamenú"
+
+#: inc/megamenu/admin/includes/config.php:43
+#: inc/megamenu/admin/includes/config.php:89
+msgid "Megamenu column width"
+msgstr "Ancho de columna de megamenú"
+
+#: inc/megamenu/admin/includes/config.php:20
+msgid "Megamenu columns width"
+msgstr "Ancho de columnas de megamenú"
+
+#: inc/megamenu/admin/includes/config.php:112
+msgid "Megamenu icon"
+msgstr "Icono de Megamenu"
+
+#: inc/megamenu/admin/includes/config.php:133
+msgid "Megamenu image"
+msgstr "Imagen Megamenu"
+
+#: inc/megamenu/admin/includes/config.php:144
+msgid "Megamenu textarea"
+msgstr "Área de texto de Megamenu"
+
+#: inc/megamenu/admin/includes/config.php:7
+msgid "Megamenu type"
+msgstr "Tipo de megamenú"
+
+#: inc/theme-config.php:8472
+msgid "Melbourne"
+msgstr ""
+
+#: inc/post_types-config.php:16 inc/post_types-config.php:22
+msgid "Member"
+msgstr "Miembro"
+
+#: inc/post_types-config.php:17
+msgid "Members"
+msgstr ""
+
+#: inc/theme-config.php:8667
+msgid "Miami"
+msgstr ""
+
+#: inc/theme-config.php:8567
+msgid "Milan"
+msgstr "Milan"
+
+#: inc/visual_composer.php:2448
+msgid "Minimal"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2396
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/visual_composer.php:2706
+msgid "Modern"
+msgstr ""
+
+#: inc/visual_composer.php:3237
+msgid "More button color"
+msgstr ""
+
+#: inc/theme-config.php:8607
+msgid "Moscow"
+msgstr "Moscow"
+
+#: inc/theme-config.php:8507
+msgid "Mumbai"
+msgstr "Mumbai"
+
+#: woocommerce/single-product/meta.php:34
+msgid "N/A"
+msgstr "N/A"
+
+#: inc/extras.php:183 inc/visual_composer.php:1793
+#: woocommerce/single-product-reviews.php:71
+msgid "Name"
+msgstr "Nombre"
+
+#: partials/content-event-form.php:136
+msgid "Name *"
+msgstr "Nombre *"
+
+#: inc/visual_composer.php:1454 inc/visual_composer.php:3533
+msgid "Navigation"
+msgstr ""
+
+#: inc/theme-config.php:8517
+msgid "New Delhi"
+msgstr "New Delhi"
+
+#: inc/theme-config.php:8408
+msgid "New York"
+msgstr "New York"
+
+#: comments.php:33
+msgid "Newer Comments"
+msgstr "Nuevos comentarios"
+
+#: partials/title_box.php:40 partials/title_box.php:41
+#: woocommerce/archive-product.php:35 woocommerce/single-product.php:78
+msgid "News"
+msgstr "Noticias"
+
+#: partials/vc_templates/portfolio_pagination.php:82
+msgid "Next"
+msgstr ""
+
+#: partials/vc_templates/portfolio_pagination.php:133
+msgid "next"
+msgstr "próxima"
+
+#: inc/visual_composer.php:4032
+msgid "No"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2835
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2702
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2704
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2432
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2809
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2664
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2666
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: partials/content-event-form.php:85
+msgid "Not indicated"
+msgstr "No indicado"
+
+#: inc/tgm/tgm-plugin-activation.php:2218
+#, fuzzy
+#| msgid "Not installed"
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Not that bad"
+msgstr "No está mal"
+
+#: inc/extras.php:207
+msgctxt "noun"
+msgid "Message"
+msgstr "Mensaje"
+
+#: woocommerce/single-product-reviews.php:102
+msgctxt "noun"
+msgid "Your Review"
+msgstr "Tu Puntuación"
+
+#: inc/visual_composer.php:2073 inc/visual_composer.php:3569
+#: inc/visual_composer.php:3927
+msgid "Number of items the carousel will display. Default: at <479px - 1 item."
+msgstr ""
+
+#: inc/visual_composer.php:3916
+msgid ""
+"Number of items the carousel will display. Default: at <480px - 2 items."
+msgstr ""
+
+#: inc/visual_composer.php:2065
+msgid ""
+"Number of items the carousel will display. Default: at <768px - 2 items."
+msgstr ""
+
+#: inc/visual_composer.php:3562 inc/visual_composer.php:3905
+msgid ""
+"Number of items the carousel will display. Default: at <768px - 3 items."
+msgstr ""
+
+#: inc/visual_composer.php:2057
+msgid ""
+"Number of items the carousel will display. Default: at <980px - 3 items."
+msgstr ""
+
+#: inc/visual_composer.php:3555 inc/visual_composer.php:3894
+msgid ""
+"Number of items the carousel will display. Default: at <980px - 4 items."
+msgstr ""
+
+#: inc/visual_composer.php:2712 inc/visual_composer.php:3096
+#: inc/visual_composer.php:3456 inc/visual_composer.php:3522
+msgid "Number Posts"
+msgstr ""
+
+#: comments.php:30
+msgid "Older Comments"
+msgstr "Comentarios antiguos"
+
+#: inc/visual_composer.php:3333 inc/visual_composer.php:3380
+#, fuzzy
+#| msgid "None"
+msgid "One"
+msgstr "Ninguna"
+
+#: woocommerce/single-product-reviews.php:111
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Solo los clientes registrados que han comprado este producto pueden dejar "
+"una revisión."
+
+#: woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr "Orden"
+
+#: inc/theme-config.php:8462
+msgid "Osaka"
+msgstr ""
+
+#: inc/theme-config.php:8592
+msgid "Oslo"
+msgstr "Oslo"
+
+#: inc/visual_composer.php:569
+msgid "Our Partner"
+msgstr ""
+
+#: partials/vc_templates/portfolio_information.php:53
+msgid "Our Role"
+msgstr "Nuestro rol"
+
+#: inc/visual_composer.php:4078
+msgid "Our Works"
+msgstr ""
+
+#: inc/extras.php:144
+msgid "out of 5"
+msgstr "de 5"
+
+#: partials/content-page.php:37
+msgid "Page"
+msgstr "Página"
+
+#: inc/extras.php:401
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+#: partials/content-page.php:33 partials/content.php:101
+msgid "Pages:"
+msgstr "Páginas"
+
+#: inc/visual_composer.php:3539
+msgid "Pagination/Dots"
+msgstr ""
+
+#: inc/theme-config.php:8617
+msgid "Paris"
+msgstr "Paris"
+
+#: inc/visual_composer.php:166
+msgid "Particles background"
+msgstr ""
+
+#: woocommerce/global/form-login.php:37 woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:91
+msgid "Password"
+msgstr "contraseña"
+
+#: partials/content-event-classic.php:92 partials/content-event-form.php:97
+msgid "past event"
+msgstr "evento pasado"
+
+#: inc/visual_composer.php:2688
+msgid "Past Events"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr "Pagar"
+
+#: woocommerce/checkout/payment.php:27
+msgid "payment"
+msgstr "pago"
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Perfect"
+msgstr "Perfecto"
+
+#: inc/visual_composer.php:676 inc/visual_composer.php:703
+#: inc/visual_composer.php:1814 inc/visual_composer.php:2252
+msgid "Phone"
+msgstr "Teléfono"
+
+#: partials/content-event-form.php:150
+msgid "Phone *"
+msgstr "Teléfono *"
+
+#: partials/vc_templates/contacts_widget.php:70
+#, php-format
+msgctxt "Phone number Contacts Widget"
+msgid "%s"
+msgstr "%s"
+
+#: inc/visual_composer.php:685 inc/visual_composer.php:1823
+#, fuzzy
+#| msgid "Phone Icon"
+msgid "Phone Two"
+msgstr "Barra superior"
+
+#: inc/visual_composer.php:1665
+msgid "Photo - Size"
+msgstr ""
+
+#: inc/visual_composer.php:3276
+msgid "Pie"
+msgstr ""
+
+#: partials/vc_templates/portfolio_pagination.php:19
+#: partials/vc_templates/portfolio_pagination.php:50
+#: partials/vc_templates/portfolio_pagination.php:96
+#: partials/vc_templates/portfolio_pagination.php:127
+#: partials/vc_templates/portfolio/style_1.php:41
+#: partials/vc_templates/portfolio/style_2.php:37
+#: partials/vc_templates/portfolio/style_3.php:31
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: inc/visual_composer.php:4178
+msgid "Plan label"
+msgstr ""
+
+#: inc/visual_composer.php:4134 inc/visual_composer.php:4144
+msgid "Plan pattern image"
+msgstr ""
+
+#: inc/visual_composer.php:4154
+msgid "Plan price"
+msgstr ""
+
+#: inc/visual_composer.php:4159
+msgid "Plan price affix"
+msgstr ""
+
+#: inc/visual_composer.php:4164
+msgid "Plan price suffix"
+msgstr ""
+
+#: inc/visual_composer.php:4173
+msgid "Plan subtitle"
+msgstr ""
+
+#: inc/visual_composer.php:4149
+#, fuzzy
+#| msgid "Plural Title"
+msgid "Plan title"
+msgstr "Título plural"
+
+#: inc/tgm/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:932 inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:38
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Por favor llene con sus detalles arriba para ver los métodos de pago "
+"disponibles."
+
+#: inc/tgm/tgm-plugin-activation.php:2457
+#, fuzzy
+#| msgid "Plugins"
+msgid "Plugin"
+msgstr "Complementos"
+
+#: inc/tgm/tgm-plugin-activation.php:1115
+#: inc/tgm/tgm-plugin-activation.php:2849
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:399 inc/tgm/tgm-plugin-activation.php:3051
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3050
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2289
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/visual_composer.php:4324 inc/visual_composer.php:4355
+msgid "Point color"
+msgstr ""
+
+#: inc/visual_composer.php:3278
+msgid "Polar area"
+msgstr ""
+
+#: inc/post_types-config.php:87 inc/post_types-config.php:88
+#: inc/visual_composer.php:3432
+msgid "Portfolio"
+msgstr "Portafolio"
+
+#: inc/visual_composer.php:3501
+msgid "Portfolio Carousel"
+msgstr ""
+
+#: inc/visual_composer.php:3628
+msgid "Portfolio Information"
+msgstr ""
+
+#: inc/visual_composer.php:3583
+msgid "Portfolio Post Pagination"
+msgstr ""
+
+#: inc/visual_composer.php:594
+msgid "Position"
+msgstr "Posición"
+
+#: inc/extras.php:210
+msgid "post a comment"
+msgstr "Publicar un comentario"
+
+#: inc/visual_composer.php:4453
+#, fuzzy
+#| msgid "Post Types"
+msgid "Post Tags"
+msgstr "Tipos de correos"
+
+#: woocommerce/cart/shipping-calculator.php:90
+msgid "Postcode / ZIP"
+msgstr "Código Postal/ZIP"
+
+#: partials/content-loop_list.php:11 partials/content-post_details.php:9
+msgid "Posted by:"
+msgstr "Publicado por:"
+
+#: inc/visual_composer.php:2164
+msgid "Posts"
+msgstr ""
+
+#: inc/visual_composer.php:2101 inc/visual_composer.php:2718
+#: inc/visual_composer.php:3102 inc/visual_composer.php:3700
+msgid "Posts Per Row"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2201
+msgid "Pre-Packaged"
+msgstr ""
+
+#: partials/vc_templates/portfolio_pagination.php:64
+msgid "Prev"
+msgstr ""
+
+#: inc/visual_composer.php:224
+msgid "Preview Image"
+msgstr ""
+
+#: partials/vc_templates/portfolio_pagination.php:103
+msgid "previous"
+msgstr "anterior"
+
+#: woocommerce/cart/cart.php:77
+msgid "Price"
+msgstr "Precios"
+
+#: woocommerce/cart/cart.php:31
+msgid "price"
+msgstr "Precio"
+
+#: inc/visual_composer.php:4128
+msgid "Pricing Plan"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "proceed to checkout"
+msgstr "Proceder a la revisión de compra"
+
+#: woocommerce/cart/cart.php:50 woocommerce/checkout/review-order.php:27
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr "Descripción del Producto"
+
+#: woocommerce/cart/cart.php:30
+msgid "product name"
+msgstr "Nombre del Producto"
+
+#: woocommerce/global/quantity-input.php:39
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Qty"
+
+#: partials/content-about_vacancy.php:19
+msgid "Project Location(s):"
+msgstr "Ubicación del proyecto(s):"
+
+#: woocommerce/cart/cart.php:83
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/cart/cart.php:32
+msgid "quantity"
+msgstr "Cantidad"
+
+#: inc/visual_composer.php:2089
+msgid "Query"
+msgstr ""
+
+#: inc/visual_composer.php:1577 inc/visual_composer.php:1583
+msgid "Quote"
+msgstr ""
+
+#: inc/visual_composer.php:3277
+msgid "Radar"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Rate&hellip;"
+msgstr "Califica la ayuda"
+
+#: inc/extras.php:142
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Rankeado %d d 5"
+
+#: partials/vc_templates/info_box/style_1.php:52
+#: partials/vc_templates/info_box/style_10.php:37
+#: partials/vc_templates/info_box/style_2.php:52
+#: partials/vc_templates/info_box/style_3.php:60
+#: partials/vc_templates/info_box/style_5.php:34
+msgid "Read More"
+msgstr "Leer Más"
+
+#: partials/vc_templates/news.php:97 partials/vc_templates/news.php:159
+#: partials/vc_templates/staff_list.php:92
+#: partials/vc_templates/staff_list.php:115
+#: partials/vc_templates/vacancies.php:71
+#: partials/vc_templates/vacancies.php:122 partials/vc_templates/works.php:513
+#: vc_templates/stm_news/amsterdam.php:9 vc_templates/stm_news/style_2.php:22
+#: vc_templates/stm_news/style_3.php:31 vc_templates/stm_news/style_5.php:23
+#: partials/vc_templates/icon_box/style_5.php:95
+#: partials/vc_templates/info_box/style_6.php:53
+#: partials/vc_templates/info_box/style_7.php:32
+#: partials/vc_templates/news/style_1.php:65
+#: partials/vc_templates/news/style_1.php:106
+#: partials/vc_templates/news/style_1.php:136
+#: partials/vc_templates/news/style_2.php:62
+#: partials/vc_templates/news/style_3.php:72
+#: partials/vc_templates/news/style_5.php:65
+#: partials/vc_templates/services/style_4.php:43
+#: partials/vc_templates/services/style_5.php:49
+#: partials/vc_templates/services/style_8.php:69
+#: partials/vc_templates/services/style_9.php:47
+#: partials/vc_templates/staff_carousel/style_2.php:45
+#: partials/vc_templates/staff_grid/default.php:70
+#: partials/vc_templates/staff_list/list_2.php:61
+#: partials/vc_templates/works/grid/style_2.php:172
+msgid "Read more"
+msgstr "leer más"
+
+#: partials/content-event-classic.php:80 partials/content-loop_list.php:32
+#: partials/vc_templates/services/style_1.php:65
+#: partials/vc_templates/services/style_6.php:74
+msgid "read more"
+msgstr "leer más"
+
+#: partials/content-none.php:3
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para hacer tu primera entrada? <a href=\"%1$s\">Comienza aquí</a>."
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "recent orders"
+msgstr "Ordenes recientes"
+
+#: inc/tgm/tgm-plugin-activation.php:2179
+msgid "Recommended"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:103
+msgid "Register"
+msgstr "Resgistro"
+
+#: partials/content-event-form.php:125 partials/content-event-list-form.php:13
+#: woocommerce/myaccount/form-login.php:74
+msgid "register"
+msgstr "registro"
+
+#: inc/visual_composer.php:367
+msgid "Regular"
+msgstr "Regular"
+
+#: woocommerce/single-product/related.php:33
+msgid "related products"
+msgstr "productos relacionados"
+
+#: woocommerce/single-product/related.php:31
+msgid "Related Webinars"
+msgstr ""
+
+#: woocommerce/global/form-login.php:48 woocommerce/myaccount/form-login.php:52
+msgid "Remember me"
+msgstr "recuérdeme"
+
+#: inc/visual_composer.php:1463
+msgid "Remove default block size"
+msgstr ""
+
+#: inc/header/main.php:15 inc/megamenu/admin/includes/config.php:135
+#: inc/megamenu/admin/includes/config.php:154
+msgid "Remove image"
+msgstr "Quita la imagen"
+
+#: woocommerce/cart/cart.php:111
+msgid "Remove this item"
+msgstr "Eliminar este artículo"
+
+#: inc/header/main.php:16 inc/megamenu/admin/includes/config.php:136
+#: inc/megamenu/admin/includes/config.php:155
+msgid "Replace image"
+msgstr "Reemplazar imagen"
+
+#: inc/tgm/tgm-plugin-activation.php:2176
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2230
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2233
+msgid "Requires Update"
+msgstr ""
+
+#: inc/visual_composer.php:180
+msgid "Responsiveness"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:825 inc/tgm/tgm-plugin-activation.php:3460
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:25
+msgid "Returning customer?"
+msgstr "¿Eres Cliente de regreso?"
+
+#: inc/visual_composer.php:284 inc/visual_composer.php:937
+#: inc/visual_composer.php:1364 inc/visual_composer.php:3295
+#: inc/visual_composer.php:3716 inc/visual_composer.php:4485
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/visual_composer.php:296
+msgid "Right after the text"
+msgstr ""
+
+#: inc/visual_composer.php:295
+msgid "Right default"
+msgstr ""
+
+#: functions.php:158
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/visual_composer.php:3658
+msgid "Role"
+msgstr ""
+
+#: inc/theme-config.php:8642
+msgid "Rome"
+msgstr "Rome"
+
+#: inc/visual_composer.php:2471
+msgid "Rounded"
+msgstr ""
+
+#: inc/theme-config.php:8647
+msgid "San Francisco"
+msgstr "San Francisco"
+
+#: inc/theme-config.php:8537
+msgid "Sao Paulo"
+msgstr "Sao Paulo"
+
+#: partials/content-event-form.php:87
+msgid "save event to calendar"
+msgstr "guardar evento en calendario"
+
+#: inc/visual_composer.php:717
+msgid "Schedule"
+msgstr ""
+
+#. 1: separator, 2: search phrase
+#: inc/extras.php:396
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: searchform.php:2
+msgid "Search..."
+msgstr "Buscar..."
+
+#: inc/visual_composer.php:981 inc/visual_composer.php:1131
+#: inc/visual_composer.php:1151 inc/visual_composer.php:1175
+#: inc/visual_composer.php:1242 inc/visual_composer.php:1607
+msgid "Secondary"
+msgstr ""
+
+#: partials/vc_templates/services/style_10.php:56
+#: partials/vc_templates/services_tabs/style_2.php:56
+msgid "See More"
+msgstr ""
+
+#: partials/vc_templates/news/style_7.php:55
+msgid "See more"
+msgstr ""
+
+#: inc/visual_composer.php:364 inc/visual_composer.php:1856
+msgid "Select"
+msgstr ""
+
+#: vc_templates/stm_gmap_l14.php:86 partials/vc_templates/gmap_l14.php:93
+#: woocommerce/cart/shipping-calculator.php:36
+msgid "Select a country&hellip;"
+msgstr "Seleccione un país"
+
+#: woocommerce/cart/shipping-calculator.php:61
+msgid "Select a state&hellip;"
+msgstr "Seleccione un estado"
+
+#: vc_templates/stm_gmap_l14.php:94 partials/vc_templates/gmap_l14.php:101
+msgid "Select an office&hellip;"
+msgstr "Seleccione una oficina y hellip;"
+
+#: inc/visual_composer.php:419
+msgid "Select button color."
+msgstr ""
+
+#: inc/visual_composer.php:4418
+msgid "Select calculator"
+msgstr ""
+
+#: inc/visual_composer.php:405
+msgid "Select gap between grid elements."
+msgstr ""
+
+#: inc/visual_composer.php:4206 inc/visual_composer.php:4287
+msgid "Select index symbol"
+msgstr ""
+
+#: inc/visual_composer.php:2959
+msgid "Select speakers"
+msgstr ""
+
+#: inc/visual_composer.php:4313
+msgid "Select stock index symbol"
+msgstr ""
+
+#: inc/visual_composer.php:369
+#, fuzzy
+#| msgid "Semi-Bold"
+msgid "Semi-bold"
+msgstr "Semi-negrita"
+
+#: inc/theme-config.php:8527
+msgid "Seoul"
+msgstr "Seúl"
+
+#: inc/post_types-config.php:25
+msgid "Service"
+msgstr "Servicio"
+
+#: inc/post_types-config.php:26 inc/visual_composer.php:3089
+#: inc/visual_composer.php:3647
+#: partials/vc_templates/portfolio_information.php:31
+msgid "Services"
+msgstr "Servicios"
+
+#: inc/visual_composer.php:4087
+msgid "Services With Tabs"
+msgstr ""
+
+#: inc/visual_composer.php:4376
+msgid "Set interval"
+msgstr ""
+
+#: inc/visual_composer.php:4364
+msgid "Set range"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/theme-config.php:8512
+msgid "Shanghai"
+msgstr "Shanghai"
+
+#: partials/content-event-form.php:12
+msgid "SHARE"
+msgstr "COMPARTIR"
+
+#: partials/content-post_bottom.php:10 partials/content-vacancy_bottom.php:13
+msgid "Share"
+msgstr "Compartir"
+
+#: inc/visual_composer.php:4438
+msgid "Share Buttons"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:25
+msgid "ship to a different address?"
+msgstr "¿enviar a una dirección diferente?"
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr "Envío"
+
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping Address"
+msgstr "Dirección de Envío"
+
+#: functions.php:180
+msgid "Shop Sidebar"
+msgstr "Tienda de barra lateral"
+
+#: inc/visual_composer.php:2446
+msgid "Short"
+msgstr ""
+
+#: inc/visual_composer.php:3600
+msgid "Show Button"
+msgstr ""
+
+#: inc/visual_composer.php:3462
+msgid "Show Category Filter"
+msgstr ""
+
+#: inc/visual_composer.php:3283
+msgid "Show legend?"
+msgstr ""
+
+#: inc/visual_composer.php:2753 inc/visual_composer.php:3480
+msgid "Show Load More Button"
+msgstr ""
+
+#: inc/visual_composer.php:2744 inc/visual_composer.php:3485
+msgid "Show Pagination"
+msgstr ""
+
+#: inc/visual_composer.php:3723
+msgid "Show Title Icons"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:40
+#, php-format
+msgid "Showing all <strong>%d</strong> results"
+msgstr "Mostrando todos los resultados  <strong>%d</strong>"
+
+#: woocommerce/loop/result-count.php:38
+msgid "Showing the single result"
+msgstr "Mostrando el resultado simple"
+
+#: functions.php:144
+msgid "Sidebar Menu 1"
+msgstr "Barra lateral de menú 1"
+
+#: functions.php:145
+msgid "Sidebar Menu 2"
+msgstr "Barra lateral de menú 2"
+
+#: functions.php:146
+msgid "Sidebar Menu 3"
+msgstr "Barra lateral de menú 2"
+
+#: woocommerce/checkout/payment.php:45
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"Debido a que tu navegador no soporta JavaScript, o está deshabilitado, por "
+"favor asegúrese que dio click en el botón <em>Actualizar Total</em antes de "
+"poner su orden. Podría cobrársele más de la cantidad indicada arriba si "
+"falla al hacerlo."
+
+#: inc/theme-config.php:8522
+msgid "Singapore"
+msgstr "Singapore"
+
+#: hb_templates/mobile/mobile.php:34
+msgid "Site Logo"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "SKU:"
+msgstr "SKU:"
+
+#: inc/visual_composer.php:762 inc/visual_composer.php:1837
+msgid "Skype"
+msgstr "Skype"
+
+#: partials/vc_templates/contact.php:60
+msgid "Skype: "
+msgstr "Skype:"
+
+#: inc/visual_composer.php:138
+msgid "Slick slider"
+msgstr ""
+
+#: inc/visual_composer.php:139
+msgid "Slick slider 2"
+msgstr ""
+
+#: inc/visual_composer.php:3977 inc/visual_composer.php:4231
+msgid "Slider arrows"
+msgstr ""
+
+#: inc/visual_composer.php:1472 inc/visual_composer.php:1986
+#: inc/visual_composer.php:3949 inc/visual_composer.php:4001
+msgid "Slider autoplay"
+msgstr ""
+
+#: inc/visual_composer.php:3963
+msgid "Slider dots"
+msgstr ""
+
+#: inc/visual_composer.php:1498 inc/visual_composer.php:2008
+#: inc/visual_composer.php:3935 inc/visual_composer.php:4220
+msgid "Slider loop"
+msgstr ""
+
+#: inc/visual_composer.php:1512 inc/visual_composer.php:2018
+msgid "Slider navigation"
+msgstr ""
+
+#: inc/visual_composer.php:2032
+msgid "Slider pagination"
+msgstr ""
+
+#: inc/visual_composer.php:1563
+msgid "Small Screen"
+msgstr ""
+
+#: inc/visual_composer.php:1526 inc/visual_composer.php:2039
+#: inc/visual_composer.php:3991
+msgid "Smart Speed"
+msgstr ""
+
+#: partials/content-staff_bottom.php:25
+msgid "Social Profiles"
+msgstr "Perfiles Sociales"
+
+#: inc/tgm/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: partials/content-none.php:7
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero no hubo ninguna coincidencia en tus términos de búsqueda. "
+"Por favor intenta de nuevo con algunas palabras claves diferentes."
+
+#: inc/tgm/tgm-plugin-activation.php:377
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:362
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/checkout/payment.php:38
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Lo sentimos, parece que no hay método de pago disponible para tu estado. Por "
+"favor contáctenos si necesita asistencia o desea hacer un arreglo "
+"alternativo."
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+"Lo sentimos, este producto está actualmente no disponible. Por favor escoja "
+"una combinación diferente."
+
+#: inc/tgm/tgm-plugin-activation.php:2458
+msgid "Source"
+msgstr ""
+
+#: inc/visual_composer.php:1547
+msgid "Spacing"
+msgstr ""
+
+#: inc/visual_composer.php:2470
+msgid "Square"
+msgstr ""
+
+#: inc/post_types-config.php:45 inc/post_types-config.php:46
+msgid "Staff"
+msgstr "Personal"
+
+#: inc/visual_composer.php:3772
+msgid "Staff Bottom"
+msgstr ""
+
+#: inc/visual_composer.php:2596
+msgid "Staff List"
+msgstr ""
+
+#: inc/visual_composer.php:2492 inc/visual_composer.php:2513
+msgid "Staff Per Row"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+#: woocommerce/cart/shipping-calculator.php:60
+#: woocommerce/cart/shipping-calculator.php:73
+msgid "State / county"
+msgstr "Estado / país"
+
+#: inc/visual_composer.php:1399
+msgid "Stats Counter"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2464
+#: woocommerce/myaccount/my-orders.php:27
+msgid "Status"
+msgstr "Estado"
+
+#: inc/visual_composer.php:3024
+msgid "Step"
+msgstr ""
+
+#: inc/visual_composer.php:2979
+msgid "Steps box"
+msgstr ""
+
+#: inc/visual_composer.php:4490
+msgid "Sticky nav"
+msgstr ""
+
+#: inc/visual_composer.php:523 inc/visual_composer.php:546
+#: inc/visual_composer.php:571 inc/visual_composer.php:631
+#: inc/visual_composer.php:902 inc/visual_composer.php:911
+#: inc/visual_composer.php:1401 inc/visual_composer.php:1410
+#: inc/visual_composer.php:1549 inc/visual_composer.php:1579
+#: inc/visual_composer.php:1635 inc/visual_composer.php:1748
+#: inc/visual_composer.php:1780 inc/visual_composer.php:1867
+#: inc/visual_composer.php:1891 inc/visual_composer.php:1931
+#: inc/visual_composer.php:2167 inc/visual_composer.php:2182
+#: inc/visual_composer.php:2237 inc/visual_composer.php:2285
+#: inc/visual_composer.php:2346 inc/visual_composer.php:2381
+#: inc/visual_composer.php:2599 inc/visual_composer.php:2680
+#: inc/visual_composer.php:2836 inc/visual_composer.php:2981
+#: inc/visual_composer.php:3049 inc/visual_composer.php:3092
+#: inc/visual_composer.php:3266 inc/visual_composer.php:3435
+#: inc/visual_composer.php:3504 inc/visual_composer.php:4080
+#: inc/visual_composer.php:4089 inc/visual_composer.php:4130
+#: inc/visual_composer.php:4202 inc/visual_composer.php:4283
+#: inc/visual_composer.php:4309 inc/visual_composer.php:4414
+#: inc/visual_composer.php:4469
+msgid "STM"
+msgstr ""
+
+#: inc/visual_composer.php:2608 inc/visual_composer.php:2623
+#: inc/visual_composer.php:2638 inc/visual_composer.php:2664
+#: inc/visual_composer.php:2775 inc/visual_composer.php:2792
+#: inc/visual_composer.php:2808 inc/visual_composer.php:3586
+#: inc/visual_composer.php:3631 inc/visual_composer.php:4440
+#: inc/visual_composer.php:4455
+msgid "STM Post Partials"
+msgstr ""
+
+#: inc/visual_composer.php:1865
+msgid "STM Sidebar"
+msgstr ""
+
+#: inc/visual_composer.php:3774
+msgid "STM Staff Partials"
+msgstr ""
+
+#: inc/visual_composer.php:3744 inc/visual_composer.php:3759
+msgid "STM Vacancy Partials"
+msgstr ""
+
+#: inc/theme-config.php:8482
+msgid "Stockholm"
+msgstr ""
+
+#: inc/visual_composer.php:4200
+msgid "Stocks carousel"
+msgstr ""
+
+#: inc/visual_composer.php:4307
+msgid "Stocks chart"
+msgstr ""
+
+#: inc/visual_composer.php:4281
+msgid "Stocks table"
+msgstr ""
+
+#: inc/visual_composer.php:107
+msgid "Stretch column"
+msgstr ""
+
+#: inc/visual_composer.php:111
+msgid "Stretch out to the left"
+msgstr ""
+
+#: inc/visual_composer.php:112
+msgid "Stretch out to the right"
+msgstr ""
+
+#: inc/visual_composer.php:348
+msgid "Stripe - Position"
+msgstr ""
+
+#: inc/visual_composer.php:575 inc/visual_composer.php:635
+#: inc/visual_composer.php:831 inc/visual_composer.php:915
+#: inc/visual_composer.php:1273 inc/visual_composer.php:1379
+#: inc/visual_composer.php:1434 inc/visual_composer.php:1639
+#: inc/visual_composer.php:1784 inc/visual_composer.php:1975
+#: inc/visual_composer.php:2153 inc/visual_composer.php:2390
+#: inc/visual_composer.php:2418 inc/visual_composer.php:2581
+#: inc/visual_composer.php:2642 inc/visual_composer.php:2701
+#: inc/visual_composer.php:2989 inc/visual_composer.php:3069
+#: inc/visual_composer.php:3137 inc/visual_composer.php:3439
+#: inc/visual_composer.php:3513 inc/visual_composer.php:3590
+#: inc/visual_composer.php:3689 inc/visual_composer.php:3800
+#: inc/visual_composer.php:4093 inc/visual_composer.php:4424
+#: inc/visual_composer.php:4473
+msgid "Style"
+msgstr "Estilo"
+
+#: inc/visual_composer.php:578 inc/visual_composer.php:638
+#: inc/visual_composer.php:834 inc/visual_composer.php:918
+#: inc/visual_composer.php:1276 inc/visual_composer.php:1382
+#: inc/visual_composer.php:1437 inc/visual_composer.php:1642
+#: inc/visual_composer.php:1787 inc/visual_composer.php:1978
+#: inc/visual_composer.php:2120 inc/visual_composer.php:2393
+#: inc/visual_composer.php:2432 inc/visual_composer.php:2645
+#: inc/visual_composer.php:2992 inc/visual_composer.php:3072
+#: inc/visual_composer.php:3140 inc/visual_composer.php:3442
+#: inc/visual_composer.php:3516 inc/visual_composer.php:3593
+#: inc/visual_composer.php:3692 inc/visual_composer.php:3815
+#: inc/visual_composer.php:3829 inc/visual_composer.php:4096
+#: inc/visual_composer.php:4137 inc/visual_composer.php:4476
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: inc/visual_composer.php:843 inc/visual_composer.php:927
+msgid "Style 10"
+msgstr ""
+
+#: inc/visual_composer.php:928
+msgid "Style 11"
+msgstr ""
+
+#: inc/visual_composer.php:579 inc/visual_composer.php:639
+#: inc/visual_composer.php:835 inc/visual_composer.php:919
+#: inc/visual_composer.php:1277 inc/visual_composer.php:1383
+#: inc/visual_composer.php:1438 inc/visual_composer.php:1643
+#: inc/visual_composer.php:1788 inc/visual_composer.php:1979
+#: inc/visual_composer.php:2121 inc/visual_composer.php:2394
+#: inc/visual_composer.php:2433 inc/visual_composer.php:2646
+#: inc/visual_composer.php:2993 inc/visual_composer.php:3073
+#: inc/visual_composer.php:3141 inc/visual_composer.php:3443
+#: inc/visual_composer.php:3594 inc/visual_composer.php:3693
+#: inc/visual_composer.php:3816 inc/visual_composer.php:3830
+#: inc/visual_composer.php:4097 inc/visual_composer.php:4138
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: inc/visual_composer.php:640 inc/visual_composer.php:836
+#: inc/visual_composer.php:920 inc/visual_composer.php:1278
+#: inc/visual_composer.php:1439 inc/visual_composer.php:1644
+#: inc/visual_composer.php:1980 inc/visual_composer.php:2122
+#: inc/visual_composer.php:2395 inc/visual_composer.php:3142
+#: inc/visual_composer.php:3444 inc/visual_composer.php:3595
+#: inc/visual_composer.php:3694 inc/visual_composer.php:3817
+#: inc/visual_composer.php:4139
+msgid "Style 3"
+msgstr "Estilo 3"
+
+#: inc/visual_composer.php:641 inc/visual_composer.php:837
+#: inc/visual_composer.php:921 inc/visual_composer.php:1279
+#: inc/visual_composer.php:1440 inc/visual_composer.php:1645
+#: inc/visual_composer.php:2123 inc/visual_composer.php:3143
+msgid "Style 4"
+msgstr "Estilo 4"
+
+#: inc/visual_composer.php:642 inc/visual_composer.php:838
+#: inc/visual_composer.php:922 inc/visual_composer.php:1280
+#: inc/visual_composer.php:1441 inc/visual_composer.php:1646
+#: inc/visual_composer.php:2124 inc/visual_composer.php:3144
+msgid "Style 5"
+msgstr "Estilo 5"
+
+#: inc/visual_composer.php:839 inc/visual_composer.php:923
+#: inc/visual_composer.php:1442 inc/visual_composer.php:1647
+#: inc/visual_composer.php:2125 inc/visual_composer.php:3145
+msgid "Style 6"
+msgstr "Estilo 6"
+
+#: inc/visual_composer.php:840 inc/visual_composer.php:924
+#: inc/visual_composer.php:1443 inc/visual_composer.php:1648
+#: inc/visual_composer.php:3146
+msgid "Style 7"
+msgstr "Estilo 7"
+
+#: inc/visual_composer.php:841 inc/visual_composer.php:925
+msgid "Style 8"
+msgstr "Style 8"
+
+#: inc/visual_composer.php:3147
+msgid "Style 8 (with icons)"
+msgstr ""
+
+#: inc/visual_composer.php:842 inc/visual_composer.php:926
+#: inc/visual_composer.php:3148
+msgid "Style 9"
+msgstr ""
+
+#: inc/visual_composer.php:2211 inc/visual_composer.php:2320
+msgid "Style Code"
+msgstr ""
+
+#: inc/visual_composer.php:1971 inc/visual_composer.php:2219
+#: inc/visual_composer.php:2328 inc/visual_composer.php:4114
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: inc/visual_composer.php:3696 inc/visual_composer.php:3708
+#: inc/visual_composer.php:3719 inc/visual_composer.php:3728
+#, fuzzy
+#| msgid "Site Settings"
+msgid "Style settings"
+msgstr "Configuración del sitio"
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#: inc/visual_composer.php:658
+msgid "Sub Title"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr "Enviar"
+
+#: inc/visual_composer.php:336 inc/visual_composer.php:2561
+msgid "Subtitle"
+msgstr ""
+
+#: inc/visual_composer.php:342
+msgid "Subtitle - Color"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart-totals.php:34
+#: woocommerce/checkout/review-order.php:60
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: inc/theme-config.php:8597
+msgid "Sydney"
+msgstr "Sydney"
+
+#: inc/theme-config.php:8657
+msgid "Tehran"
+msgstr "Tehran"
+
+#: inc/theme-config.php:8662
+msgid "Tel Aviv"
+msgstr "Tel Aviv"
+
+#: inc/post_types-config.php:65
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: inc/post_types-config.php:66 inc/visual_composer.php:1408
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: inc/visual_composer.php:1633
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: inc/visual_composer.php:1746
+msgid "Testimonials Pager"
+msgstr ""
+
+#: inc/visual_composer.php:1420 inc/visual_composer.php:1676
+msgid "Testimonials Per Row"
+msgstr ""
+
+#: inc/visual_composer.php:868 inc/visual_composer.php:1228
+msgid "Text"
+msgstr ""
+
+#: inc/visual_composer.php:1237
+msgid "Text - Color"
+msgstr ""
+
+#: inc/visual_composer.php:1253
+msgid "Text - Color Custom"
+msgstr ""
+
+#: inc/visual_composer.php:1688
+msgid "Text color"
+msgstr "Color de texto"
+
+#: inc/visual_composer.php:1919
+msgid "The area of screen from top where animation effects will start working."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+"Las siguientes direcciones serán usadas en la página de revisión de compra "
+"por defecto."
+
+#: inc/tgm/tgm-plugin-activation.php:352
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:400 inc/tgm/tgm-plugin-activation.php:2853
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:3391
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3387
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3397
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/visual_composer.php:2049 inc/visual_composer.php:3548
+#: inc/visual_composer.php:3861 inc/visual_composer.php:3872
+#: inc/visual_composer.php:3883 inc/visual_composer.php:4108
+msgid "The number of items you want to see on the screen."
+msgstr ""
+
+#: 404.php:11
+msgid "The page you are looking for does not exist."
+msgstr "La página que está buscando no existe."
+
+#: inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/visual_composer.php:4428
+msgid "Theme style"
+msgstr ""
+
+#: inc/visual_composer.php:422
+msgid "Theme Style 1"
+msgstr ""
+
+#: inc/visual_composer.php:423
+msgid "Theme Style 2"
+msgstr ""
+
+#: inc/visual_composer.php:424
+msgid "Theme Style 3"
+msgstr ""
+
+#: inc/visual_composer.php:425
+msgid "Theme Style 4"
+msgstr ""
+
+#: inc/visual_composer.php:426
+msgid "Theme Style 5"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:52
+msgid "There are no reviews yet."
+msgstr "No hay revisiones todavía."
+
+#: inc/tgm/tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/visual_composer.php:365
+msgid "Thin"
+msgstr "Delgada"
+
+#: inc/visual_composer.php:982 inc/visual_composer.php:1132
+#: inc/visual_composer.php:1152 inc/visual_composer.php:1176
+#: inc/visual_composer.php:1243 inc/visual_composer.php:1608
+msgid "Third"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr "Este producto está actualmente fuera de existencias y no disponible."
+
+#: inc/tgm/tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/visual_composer.php:3390
+#, fuzzy
+#| msgid "Theme"
+msgid "Three"
+msgstr "Tema"
+
+#: inc/visual_composer.php:145
+msgid "Thumbnail size"
+msgstr ""
+
+#: inc/visual_composer.php:3807
+msgid "Tiles"
+msgstr ""
+
+#: inc/visual_composer.php:2938
+#, fuzzy
+#| msgid "Time - End:"
+msgid "Time end"
+msgstr "Hora - Fin:"
+
+#: inc/visual_composer.php:2856
+msgid "Time Format"
+msgstr ""
+
+#: inc/visual_composer.php:2932
+#, fuzzy
+#| msgid "Time - Start:"
+msgid "Time start"
+msgstr "Hora - Inicio:"
+
+#: inc/visual_composer.php:527 inc/visual_composer.php:555
+#: inc/visual_composer.php:584 inc/visual_composer.php:648
+#: inc/visual_composer.php:790 inc/visual_composer.php:948
+#: inc/visual_composer.php:1297 inc/visual_composer.php:2241
+#: inc/visual_composer.php:2350 inc/visual_composer.php:2384
+#: inc/visual_composer.php:2902 inc/visual_composer.php:2949
+#: inc/visual_composer.php:3031 inc/visual_composer.php:3348
+#: inc/visual_composer.php:3400 inc/visual_composer.php:3508
+msgid "Title"
+msgstr "Título"
+
+#: inc/visual_composer.php:977
+#, fuzzy
+#| msgid "Title Line Color"
+msgid "Title - Color"
+msgstr "Título Color de oración"
+
+#: inc/visual_composer.php:992 inc/visual_composer.php:1614
+msgid "Title - Color Custom"
+msgstr ""
+
+#: inc/visual_composer.php:957
+msgid "Title - Font size"
+msgstr ""
+
+#: inc/visual_composer.php:967
+msgid "Title - Line Height"
+msgstr ""
+
+#: inc/visual_composer.php:1340 inc/visual_composer.php:3221
+#, fuzzy
+#| msgid "Title Color"
+msgid "Title color"
+msgstr "Color del título"
+
+#: inc/visual_composer.php:848
+msgid "Title Icon"
+msgstr ""
+
+#: partials/content-event-classic.php:46 partials/content-event-grid.php:49
+#: partials/content-event-info.php:65 partials/content-event-widgets.php:32
+msgid "to"
+msgstr "a"
+
+#: inc/tgm/tgm-plugin-activation.php:2298
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2292
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-config.php:8547
+msgid "Tokyo"
+msgstr "Tokyo"
+
+#: inc/visual_composer.php:285 inc/visual_composer.php:3294
+msgid "Top"
+msgstr ""
+
+#: inc/visual_composer.php:353
+msgid "Top and Bottom"
+msgstr ""
+
+#: inc/visual_composer.php:309
+msgid "Top and center"
+msgstr ""
+
+#: inc/visual_composer.php:311
+msgid "Top and left"
+msgstr ""
+
+#: inc/visual_composer.php:310
+msgid "Top and right"
+msgstr ""
+
+#: partials/headers/top_bar.php:27
+#, php-format
+msgctxt "Top bar Active Office"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/top_bar.php:52
+#, php-format
+msgctxt "Top bar address"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/top_bar.php:72
+#, php-format
+msgctxt "Top bar email"
+msgid "%s"
+msgstr ""
+
+#: partials/headers/top_bar.php:62
+#, php-format
+msgctxt "Top bar hours"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/top_bar.php:34
+#, php-format
+msgctxt "Top bar Office"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/top_bar.php:82
+#, php-format
+msgctxt "Top bar phone"
+msgid "%s"
+msgstr "%s"
+
+#: functions.php:143
+msgid "Top Menu"
+msgstr "Menu principal"
+
+#: inc/theme-config.php:8557
+msgid "Toronto"
+msgstr "Toronto"
+
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+#: woocommerce/cart/cart.php:100 woocommerce/checkout/review-order.php:28
+#: woocommerce/checkout/review-order.php:107
+#: woocommerce/myaccount/my-orders.php:28
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart.php:33
+msgid "total"
+msgstr "total"
+
+#: inc/header/main.php:12
+msgid "Transparent header Logo"
+msgstr "Encabezado transparente Logo"
+
+#: inc/visual_composer.php:735 inc/visual_composer.php:3669
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/visual_composer.php:3338 inc/visual_composer.php:3385
+msgid "Two"
+msgstr ""
+
+#: inc/visual_composer.php:193 inc/tgm/tgm-plugin-activation.php:2459
+msgid "Type"
+msgstr ""
+
+#: inc/visual_composer.php:196
+msgid "Type 1"
+msgstr ""
+
+#: inc/visual_composer.php:197
+msgid "Type 2"
+msgstr ""
+
+#. Name of the template
+msgid "Under Construction Template"
+msgstr ""
+
+#: inc/visual_composer.php:2687
+msgid "Upcoming Events"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2630
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2295
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/cart/cart.php:135
+msgid "update cart"
+msgstr "Actualizar carrito"
+
+#: inc/tgm/tgm-plugin-activation.php:2236
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:95
+msgid "Update Totals"
+msgstr "Total de Actualizaciones"
+
+#: woocommerce/checkout/payment.php:46
+msgid "Update totals"
+msgstr "Actualizar totales"
+
+#: inc/tgm/tgm-plugin-activation.php:3384
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2591
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/visual_composer.php:1079
+msgid "Upload icon"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr "Nombre de Usuario"
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr "nombre de usuario o correo electrónico"
+
+#: woocommerce/myaccount/form-login.php:40
+msgid "Username or email address"
+msgstr "Nombre de Usuario o Correo Electrónico"
+
+#: inc/post_types-config.php:36 inc/visual_composer.php:2379
+msgid "Vacancies"
+msgstr "Vacantes"
+
+#: inc/post_types-config.php:35
+msgid "Vacancy"
+msgstr "Vacante"
+
+#: inc/visual_composer.php:3757
+msgid "Vacancy Bottom"
+msgstr ""
+
+#: inc/theme-config.php:8413
+msgid "Valencia"
+msgstr ""
+
+#: inc/visual_composer.php:3407
+msgid "Value"
+msgstr ""
+
+#: inc/visual_composer.php:3323 inc/visual_composer.php:3370
+msgid "Values"
+msgstr ""
+
+#: inc/post_types-config.php:76
+msgid "VC Sidebar"
+msgstr "Barra lateral VC"
+
+#: inc/post_types-config.php:77
+msgid "VC Sidebars"
+msgstr "Barras laterales VC"
+
+#: inc/tgm/tgm-plugin-activation.php:2463
+msgid "Version"
+msgstr "Versión"
+
+#: inc/visual_composer.php:1040
+msgid "Vertical Middle Align"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Very poor"
+msgstr "Muy pobre"
+
+#: inc/visual_composer.php:219
+#, fuzzy
+#| msgid "Line Height"
+msgid "Video Height"
+msgstr "Altura de la línea"
+
+#: inc/visual_composer.php:214
+msgid "Video Width"
+msgstr ""
+
+#: inc/theme-config.php:8587
+msgid "Vienna"
+msgstr "Viena"
+
+#: woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr "Ver"
+
+#: partials/vc_templates/staff_list.php:184
+#: partials/vc_templates/staff_list.php:188
+#: partials/vc_templates/staff_grid/default.php:108
+#: partials/vc_templates/staff_grid/minimal.php:71
+#: partials/vc_templates/staff_grid/short.php:70
+#: partials/vc_templates/staff_grid/social_icons.php:86
+#: partials/vc_templates/staff_list/list.php:94
+#: partials/vc_templates/staff_list/list.php:98
+msgid "view profile"
+msgstr "Ver Perfil"
+
+#: inc/visual_composer.php:2117 inc/visual_composer.php:3812
+#: inc/visual_composer.php:3826
+msgid "View Style"
+msgstr ""
+
+#: inc/visual_composer.php:1916
+msgid "Viewport Position (%)"
+msgstr ""
+
+#: partials/vc_templates/partner.php:42
+msgid "visit website"
+msgstr "Visita el Sitio Web"
+
+#: inc/visual_composer.php:3155 inc/visual_composer.php:3171
+#: inc/visual_composer.php:3179 inc/visual_composer.php:3191
+#: inc/visual_composer.php:3203 inc/visual_composer.php:3215
+#: inc/visual_composer.php:3223 inc/visual_composer.php:3231
+#: inc/visual_composer.php:3239 inc/visual_composer.php:3247
+msgid "Visual settings"
+msgstr ""
+
+#: inc/extras.php:193 inc/visual_composer.php:3653
+#: partials/vc_templates/portfolio_information.php:40
+msgid "Website"
+msgstr "Sitio web"
+
+#: inc/visual_composer.php:428
+msgid "White Link"
+msgstr ""
+
+#: inc/megamenu/admin/includes/config.php:14
+msgid "Wide"
+msgstr "Ancho"
+
+#: inc/visual_composer.php:2707
+msgid "Widget"
+msgstr ""
+
+#: inc/visual_composer.php:182
+msgid "Width & Responsiveness"
+msgstr ""
+
+#: inc/visual_composer.php:3303
+msgid "Width (px)"
+msgstr ""
+
+#: inc/visual_composer.php:2447
+msgid "With social icons"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2195
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/post_types-config.php:55
+msgid "Work"
+msgstr "Trabajo"
+
+#: inc/post_types-config.php:56
+msgid "Works"
+msgstr "Trabajos"
+
+#: inc/visual_composer.php:3313
+msgid "X-axis values"
+msgstr ""
+
+#: inc/visual_composer.php:3355
+msgid "Y-axis values"
+msgstr ""
+
+#: inc/visual_composer.php:550
+msgid "Year"
+msgstr ""
+
+#: inc/visual_composer.php:169 inc/visual_composer.php:826
+#: inc/visual_composer.php:1467 inc/visual_composer.php:1476
+#: inc/visual_composer.php:1502 inc/visual_composer.php:1700
+#: inc/visual_composer.php:1708 inc/visual_composer.php:1716
+#: inc/visual_composer.php:1724 inc/visual_composer.php:1943
+#: inc/visual_composer.php:1951 inc/visual_composer.php:1990
+#: inc/visual_composer.php:2012 inc/visual_composer.php:2022
+#: inc/visual_composer.php:2531 inc/visual_composer.php:2542
+#: inc/visual_composer.php:3008 inc/visual_composer.php:3160
+#: inc/visual_composer.php:3172 inc/visual_composer.php:3180
+#: inc/visual_composer.php:3192 inc/visual_composer.php:3204
+#: inc/visual_composer.php:3216 inc/visual_composer.php:3286
+#: inc/visual_composer.php:3604 inc/visual_composer.php:3726
+#: inc/visual_composer.php:3939 inc/visual_composer.php:3953
+#: inc/visual_composer.php:3967 inc/visual_composer.php:3981
+#: inc/visual_composer.php:4009 inc/visual_composer.php:4031
+#: inc/visual_composer.php:4224 inc/visual_composer.php:4235
+#: inc/visual_composer.php:4332
+msgid "Yes"
+msgstr ""
+
+#: partials/content-event-form.php:199 partials/content-event-list-form.php:78
+msgid "You already has been joined the event."
+msgstr "Ya te has unido al evento."
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr "No ha configurado ningún tipo de dirección todavía."
+
+#: woocommerce/single-product-reviews.php:87
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "Debes estar <a href=\"%s\">registrado</a> para poner una revisión"
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr "Debes ingresar para poder comprar."
+
+#: inc/extras.php:160
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+#: woocommerce/checkout/review-order.php:22
+msgid "your order"
+msgstr "su orden"
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Your rating"
+msgstr "Your rating"
+
+#: inc/visual_composer.php:3684
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/theme-config.php:8502
+msgid "Zurich"
+msgstr "Zurich"
+
+#: footer.php:136 partials/footer/style_3.php:71
+#, php-format
+msgctxt "© year copyright"
+msgid "© %s %s"
+msgstr "© %s %s"

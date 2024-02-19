@@ -1,0 +1,212 @@
+.wpcfto_generic_field.header-header_style {
+    flex-wrap: wrap;
+    position: relative;
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-aside,
+.wpcfto_generic_field.header-header_style .wpcfto-field-content {
+    width: 100%;
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-content {
+    margin-top: 10px;
+    max-height: 480px;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    scrollbar-color: #1e2a36 #e4e4e4;
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-content::-webkit-scrollbar {
+    width: 10px;
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-content::-webkit-scrollbar-track {
+    background-color: #e4e4e4;
+}
+
+.wpcfto_generic_field.header-header_style .wpcfto-field-content::-webkit-scrollbar-thumb {
+    background-color: #1e2a36;
+    border-radius: 100px;
+}
+
+.wpcfto_generic_field.header-header_style .wpcfto-field-content:after {
+    content: "";
+    position: absolute;
+    right: 30px;
+    bottom: 18px;
+    left: 0;
+    height: 70px;
+    background: -moz-linear-gradient(top,  rgba(153,153,153,0) 0%, rgba(0,0,0,0.3) 100%);
+    background: -webkit-linear-gradient(top,  rgba(153,153,153,0) 0%,rgba(0,0,0,0.3) 100%);
+    background: linear-gradient(to bottom,  rgba(153,153,153,0) 0%,rgba(0,0,0,0.3) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00999999', endColorstr='#4d000000',GradientType=0 );
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-content .wpcfto_image_select {
+    padding-right: 20px;
+    flex-wrap: wrap;
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-content .wpcfto_image_select label {
+    margin: 0 0 70px;
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-content .wpcfto_image_select label .wpcfto-img-wrap {
+    border: 0 !important;
+    position: relative;
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-content .wpcfto_image_select label.active .wpcfto-img-wrap:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border: 2px solid #2985f7;
+    border-radius: 5px;
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-content .wpcfto_image_select input {
+    margin-left: 0;
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-content .wpcfto_image_select label:nth-child(-n+9) {
+    margin: 0 0 30px;
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-content .wpcfto_image_select label:nth-child(-n+9) input {
+    margin-left: 8px;
+}
+.wpcfto_generic_field.header-header_style .wpcfto-field-content .wpcfto_image_select label:nth-child(-n+9) img {
+    display: block;
+    width: auto !important;
+    height: auto !important;
+    max-width: 100%;
+}
+
+.wpcfto_generic_field.section_popup_general-popups_template {
+    flex-direction: column;
+}
+body .wpcfto_settings_head,
+body .stm_metaboxes_grid__inner {
+    max-width: 1400px;
+}
+body .stm_metaboxes_grid__inner .wpcfto-tab {
+    padding: 0;
+}
+body .stm_metaboxes_grid .wpcfto_group_title {
+    width: 100%;
+    padding: 0 0 12px;
+    color: #8c99a5;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    border-bottom: 1px solid #d6dade;
+    margin: 0 0 17px;
+    letter-spacing: 1px;
+}
+body .stm_metaboxes_grid .wpcfto_group_started .wpcfto_group_started .wpcfto_group_title {
+    text-transform: none;
+    letter-spacing: 0;
+    margin-bottom: 25px;
+}
+.wpcfto_generic_field.section_popup_general-popups_template .wpcfto-field-content {
+    width: 100%;
+}
+.wpcfto_generic_field.section_popup_general-popups_template .wpcfto-field-content .wpcfto_image_select label img {
+    height: auto !important;
+}
+.header-top_bar_wpml_switcher_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-wc_top_bar_cart_icon_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-wc_top_bar_cart_counter_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-top_bar_search_icon_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-top_bar_socials_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-offices_contact_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-header_nav_menu_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-header_nav_menu_level_1_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-header_nav_menu_level_2_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-header_mega_menu_title_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-header_mega_menu_link_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header_wpml_switcher_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-wc_top_bar_cart_icon_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header-wc_top_bar_cart_counter_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header-top_bar_search_icon_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header-top_bar_socials_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header_wpml_switcher_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header-wc_cart_icon_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header-wc_cart_icon_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.wc_cart_counter_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.wc_cart_counter_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header_search_icon_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header_search_icon_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header_socials_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header_socials_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header_contact_info_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header_contact_info_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header_button_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header_button_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-header_wpml_switcher_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header-header_wpml_switcher_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header_button_mobile_typography .wpcfto-field-content>.wpcfto-typography-fields-wrap>.row>.column>.column-50:nth-child(1),
+.header_button_mobile_typography .wpcfto-field-content .column .column-50:nth-child(3),
+.header-top_bar_wpml_switcher_typography .wpcfto-field-content .column .column-1,
+.header-wc_top_bar_cart_icon_typography .wpcfto-field-content .column .column-1,
+.header-wc_top_bar_cart_counter_typography .wpcfto-field-content .column .column-1,
+.header-top_bar_search_icon_typography .wpcfto-field-content .column .column-1,
+.header-top_bar_socials_typography .wpcfto-field-content .column .column-1,
+.header-offices_contact_typography .wpcfto-field-content .column .column-1,
+.header-header_nav_menu_typography .wpcfto-field-content .column .column-1,
+.header-header_nav_menu_level_1_typography .wpcfto-field-content .column .column-1,
+.header-header_nav_menu_level_2_typography .wpcfto-field-content .column .column-1,
+.header-header_mega_menu_title_typography .wpcfto-field-content .column .column-1,
+.header-header_mega_menu_link_typography .wpcfto-field-content .column .column-1,
+.header_wpml_switcher_typography .wpcfto-field-content .column .column-1,
+.header-wc_cart_icon_typography .wpcfto-field-content .column .column-1,
+.wc_cart_counter_typography .wpcfto-field-content .column .column-1,
+.header_search_icon_typography .wpcfto-field-content .column .column-1,
+.header_socials_typography .wpcfto-field-content .column .column-1,
+.header_button_typography .wpcfto-field-content .column .column-1,
+.header_contact_info_typography .wpcfto-field-content .column .column-1,
+.header-header_wpml_switcher_typography .wpcfto-field-content .column .column-1,
+.header_button_mobile_typography .wpcfto-field-content .column .column-1,
+.header_button_icon.icon_picker .wpcfto_generic_field_iconpicker .wpcfto_generic_field_color,
+.header_button_icon.icon_picker .wpcfto_generic_field_iconpicker .wpcfto_generic_field__inner .wpcfto_generic_field_range_slider {
+    display: none;
+}
+.header-top_bar_wpml_switcher_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header-wc_top_bar_cart_icon_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header-wc_top_bar_cart_counter_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header-top_bar_search_icon_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header-top_bar_socials_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header-offices_contact_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header-header_nav_menu_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header-header_nav_menu_level_1_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header-header_nav_menu_level_2_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header-header_mega_menu_title_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header-header_mega_menu_link_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header_search_icon_typography .wpcfto-field-content .column .stm_colorpicker_wrapper,
+.header_button_icon.icon_picker .wpcfto_generic_field_iconpicker .wpcfto_generic_field__inner .wpcfto_generic_field {
+    width: 100%;
+}
+.header-top_bar_wpml_switcher_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header-wc_top_bar_cart_icon_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header-wc_top_bar_cart_counter_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header-top_bar_search_icon_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header-top_bar_socials_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header-offices_contact_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header-header_nav_menu_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header-header_nav_menu_level_1_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header-header_nav_menu_level_2_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header-header_mega_menu_title_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header-header_mega_menu_link_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header-wc_cart_icon_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.wc_cart_counter_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header_wpml_switcher_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header_search_icon_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header_contact_info_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header_button_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header_button_mobile_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear,
+.header_socials_typography .wpcfto-field-content .column .wpcfto_generic_field_color__clear {
+    width: 18px;
+}
+.header_button_icon.icon_picker .wpcfto_generic_field_iconpicker .icon-preview-wrap .icon-preview-inner {
+    width: 40px;
+    height: 40px;
+}
+
+.wpcfto-box[data-field=wpcfto_addon_option_page_settings_information_notice] .page_settings_information_notice {
+    margin: 10px 0 0 0 !important;
+}
+.wpcfto-box[data-field=wpcfto_addon_option_hfe_enabled_notice] .hfe_enabled_notice {
+    margin: 0px 0 20px 0 !important;
+}

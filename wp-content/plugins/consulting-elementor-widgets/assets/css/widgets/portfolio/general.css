@@ -1,0 +1,89 @@
+.elementor-editor-active .consulting_portfolio_box {
+  min-height: 500px;
+  height: 100%; }
+  .elementor-editor-active .consulting_portfolio_box svg {
+    width: 1em;
+    height: 1em; }
+  .elementor-editor-active .consulting_portfolio_box .consulting_portfolio_grid.style_1 .portfolio_item.high {
+    height: 240px; }
+  .elementor-editor-active .consulting_portfolio_box .consulting_portfolio_grid .portfolio_read_more_button {
+    display: flex;
+    align-items: center; }
+    .elementor-editor-active .consulting_portfolio_box .consulting_portfolio_grid .portfolio_read_more_button svg {
+      width: 25px;
+      height: 25px; }
+    .elementor-editor-active .consulting_portfolio_box .consulting_portfolio_grid .portfolio_read_more_button i {
+      font-size: 25px; }
+
+.consulting_portfolio_box {
+  position: relative;
+  overflow: hidden; }
+  .consulting_portfolio_box .consulting_portfolio_grid .portfolio_item a {
+    text-decoration: none; }
+  .consulting_portfolio_box .consulting_portfolio_grid.column-1 .portfolio_item {
+    width: 100%; }
+  .consulting_portfolio_box .consulting_portfolio_grid.column-2 .portfolio_item {
+    width: 50%; }
+    @media (max-width: 767px) {
+      .consulting_portfolio_box .consulting_portfolio_grid.column-2 .portfolio_item {
+        width: 100%; } }
+  .consulting_portfolio_box .consulting_portfolio_grid.column-3 .portfolio_item {
+    width: 33.33333%; }
+    @media (max-width: 767px) {
+      .consulting_portfolio_box .consulting_portfolio_grid.column-3 .portfolio_item {
+        width: 100%; } }
+    @media (min-width: 768px) and (max-width: 1024px) {
+      .consulting_portfolio_box .consulting_portfolio_grid.column-3 .portfolio_item {
+        width: 50%; } }
+  .consulting_portfolio_box .consulting_portfolio_grid.column-4 .portfolio_item {
+    width: 25%; }
+    @media (max-width: 767px) {
+      .consulting_portfolio_box .consulting_portfolio_grid.column-4 .portfolio_item {
+        width: 100%; } }
+  .consulting_portfolio_box .portfolio_load_more_button {
+    display: inline-block;
+    border-radius: 8px;
+    padding: 12px 20px;
+    color: var(--con_base_color);
+    background-color: transparent;
+    border: 3px solid var(--con_base_color);
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 700;
+    font-family: var(--con_primary_font_family);
+    margin-top: 50px;
+    transition: .3s; }
+    .consulting_portfolio_box .portfolio_load_more_button .load_more_icon_wrapper {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: .3s; }
+      .consulting_portfolio_box .portfolio_load_more_button .load_more_icon_wrapper .icon_after {
+        padding-left: 16px;
+        transition: .3s; }
+      .consulting_portfolio_box .portfolio_load_more_button .load_more_icon_wrapper .icon_before {
+        padding-right: 16px;
+        transition: .3s; }
+  .consulting_portfolio_box .category_filter {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+    padding-inline-start: 0;
+    gap: 28px; }
+    @media (max-width: 767px) {
+      .consulting_portfolio_box .category_filter {
+        gap: 5px 18px; } }
+    .consulting_portfolio_box .category_filter li {
+      list-style: none;
+      text-transform: uppercase;
+      line-height: 2.5;
+      letter-spacing: 0.48px;
+      font-weight: 500;
+      font-size: 12px; }
+      .consulting_portfolio_box .category_filter li a {
+        position: relative;
+        transition: color 0.3s; }
+      .consulting_portfolio_box .category_filter li.active a {
+        text-decoration: underline; }
+  .consulting_portfolio_box ul.page-numbers {
+    display: flex; }
