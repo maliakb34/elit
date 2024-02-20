@@ -3,7 +3,7 @@ Theme Name: Consulting
 Theme URI: https://consulting.stylemixthemes.com/
 Author: StylemixThemes
 Author URI: https://stylemixthemes.com/
-Description: Consulting - Business and Finance WordPress theme. Using Consulting you can easily create a modern website with real content. Easily edit the real content and compose the page layout with drag & drop page builder Consulting is the best ever finance, consulting, brokerage WordPress theme. It’s fully Responsive and Easy to Customize using intuitive Drag & Drop Visual Composer and Theme Options panel in WordPress Customizer.
+Description: Consulting - Business and Finance WordPress theme. Using Consulting you can easily create a modern website with real content. Easily edit the real content and compose the page layout with drag & drop page builder Consulting is the best ever finance, consulting, brokerage WordPress theme. Itâ€™s fully Responsive and Easy to Customize using intuitive Drag & Drop Visual Composer and Theme Options panel in WordPress Customizer.
 Version: 6.5.16
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -860,3 +860,21 @@ div [class^=stm-header] span,
 [class^=stm-header] a {
     font-family: inherit !important;
 }
+#document-library-1{
+	border: 1px solid gray;
+	display: table;
+}
+#document-library-1 thead tr{
+	background-color: #d7d7d7!important;
+	color: #000;
+}
+#document-library-1 thead th{padding: 7px 9px;border: 1px solid;}
+#document-library-1 a{text-decoration: underline;}
+#document-library-1 td{
+    padding: 6px 9px;
+    border: 1px solid;
+    width: 0;
+}
+#document-library-1 tr:nth-child(odd)   { background-color:#fff; }
+ #document-library-1 tr:nth-child(even)    { background-color:#eee; }
+#document-library-1 i{padding-right: 8px;color: #FA2300;font-size: 16px;}

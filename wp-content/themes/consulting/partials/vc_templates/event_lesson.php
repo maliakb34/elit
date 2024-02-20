@@ -45,12 +45,12 @@ if (!empty($stm_event_lesson)):
     ?>
 
 
-    <div class="events_lessons_box">
+ 
         <?php
         foreach($data as $index => $event) {
             consulting_show_template('event_lessons', $event);
         }
         ?>
-    </div>
+  
 
 <?php endif; ?>

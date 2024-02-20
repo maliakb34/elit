@@ -20,16 +20,16 @@
 
 // ** Veritabanı ayarları - Bu bilgileri servis sağlayıcınızdan alabilirsiniz ** //
 /** WordPress için kullanılacak veritabanının adı */
-define( 'DB_NAME', 'u1470310_db8EB' );
+define( 'DB_NAME', 'elit' );
 
 /** Veritabanı kullanıcısı */
-define( 'DB_USER', 'u1470310_user8EB' );
+define( 'DB_USER', 'root' );
 
 /** Veritabanı parolası */
-define( 'DB_PASSWORD', 'LK4wA:x.8k8-7iJ:' );
+define( 'DB_PASSWORD', '' );
 
 /** Veritabanı sunucusu */
-define( 'DB_HOST', '94.73.148.70' );
+define( 'DB_HOST', 'localhost' );
 
 /** Yaratılacak tablolar için veritabanı karakter seti. */
 define( 'DB_CHARSET', 'utf8mb4' );
