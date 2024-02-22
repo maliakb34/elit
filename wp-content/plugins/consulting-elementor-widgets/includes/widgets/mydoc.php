@@ -170,7 +170,9 @@ class Elementor_STM_MyDoc extends \Elementor\Widget_Base {
 				)
 			);
 
-			$speakers = get_posts(
+
+
+			$speakers = get_posts( 
 				array(
 					'posts_per_page' => -1,
 					'post_type'      => 'stm_staff',
