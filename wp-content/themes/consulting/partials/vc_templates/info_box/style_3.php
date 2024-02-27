@@ -45,9 +45,7 @@ if ( ! empty( $link_title ) ) {
 		<div class="info_box_text">
 			<?php if ( $title ) : ?>
 				<div class="title">
-					<div class="icon">
-						<i class="<?php echo esc_attr( $title_icon ); ?>"></i>
-					</div>
+				
 					<h6 class="no_stripe">
 						<span><?php echo esc_html( $title ); ?></span>
 					</h6>
