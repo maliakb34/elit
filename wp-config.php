@@ -26,10 +26,10 @@ define( 'DB_NAME', 'elit' );
 define( 'DB_USER', 'root' );
 
 /** Veritabanı parolası */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'root' );
 
 /** Veritabanı sunucusu */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'localhost:8889' );
 
 /** Yaratılacak tablolar için veritabanı karakter seti. */
 define( 'DB_CHARSET', 'utf8mb4' );
