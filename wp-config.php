@@ -20,13 +20,13 @@
 
 // ** Veritabanı ayarları - Bu bilgileri servis sağlayıcınızdan alabilirsiniz ** //
 /** WordPress için kullanılacak veritabanının adı */
-define( 'DB_NAME', 'elit' );
+define( 'DB_NAME', 'u1001314_elit' );
 
 /** Veritabanı kullanıcısı */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'u1001314_elit' );
 
 /** Veritabanı parolası */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'W;lM}aBx*j@u' );
 
 /** Veritabanı sunucusu */
 define( 'DB_HOST', 'localhost' );
